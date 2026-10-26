@@ -6,7 +6,7 @@ Práctica sobre bebida de avena y leche, basada en el tema del caso oficial del 
 
 - [Guía de laboratorio en Word](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_openlca_50min/Guia_laboratorio_openLCA_50min.docx)
 - [Diapositivas en PowerPoint](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_openlca_50min/Diapositivas_openLCA_50min.pptx)
-- [Paquete completo: Word, diapositivas interactivas, minibase, caso y controles](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_openlca_50min/Paquete_openLCA_50min.zip)
+**La descarga del paquete openLCA está suspendida temporalmente por una alerta notificada de Microsoft Defender. No se ha determinado todavía la causa ni si se trata de un falso positivo.**
 - [Instrucciones y archivos del laboratorio](clase_openlca_50min/README.md)
 
 Instalación y descargas como preparación previa; 50 minutos de práctica. Se verificaron importación, estructura y cálculos con el motor real openLCA 2.6.2. El inventario ficticio no sirve para comparar productos reales.

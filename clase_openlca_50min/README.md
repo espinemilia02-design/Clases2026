@@ -4,15 +4,20 @@
 
 Los inventarios son **simulados** y el alcance es limitado para poder comprobar las cuentas en clase. No son AGRIBALYSE ni ecoinvent y no se deben usar para evaluar alimentos reales.
 
-## Descargar
+## Descarga suspendida mientras se revisa una alerta
+
+El ZIP completo y el HTML se retiraron de la descarga actual después de recibirse una alerta de Microsoft Defender. Se conserva una copia local para investigar. No se ha identificado todavía el nombre de la amenaza ni el archivo afectado; no se afirma que sea un falso positivo.
+
+No desactives el antivirus ni restaures archivos bloqueados para abrir estos materiales. El informe de verificación de openLCA comprueba importación y cálculos; **no es un análisis antivirus**. La inspección estructural realizada tampoco certifica ausencia de malware.
+
+## Documentos individuales
 
 - [Guía de laboratorio en Word](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_openlca_50min/Guia_laboratorio_openLCA_50min.docx)
 - [Diapositivas editables en PowerPoint](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_openlca_50min/Diapositivas_openLCA_50min.pptx)
-- [Paquete completo](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_openlca_50min/Paquete_openLCA_50min.zip)
 - [Guía en PDF](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_openlca_50min/Guia_laboratorio_openLCA_50min.pdf)
 - [Diapositivas en PDF](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_openlca_50min/Diapositivas_openLCA_50min.pdf)
 
-El paquete incluye la versión HTML interactiva, dos modelos JSON-LD, inventarios, resultados esperados y controles de integridad.
+Los documentos individuales, modelos e inventarios se conservan. La descarga conjunta se reanudará solo después de revisar el aviso.
 
 ## Preparar y ejecutar
 
@@ -28,7 +33,7 @@ La instalación y las descargas son preparación previa. Los 50 minutos se dedic
 
 ## Material interactivo
 
-Abre `Diapositivas_openLCA_50min_interactivas.html` en un navegador de escritorio después de extraer el paquete. Funciona sin internet salvo enlaces externos. Tiene preguntas con retroalimentación, cuenta manual, cambio de 1 a 2 L y sensibilidad del CH4. Las calculadoras son apoyos didácticos y no sustituyen ni modifican tu base de openLCA. El propio HTML permite descargar los dos modelos.
+La versión HTML está retirada temporalmente durante la revisión. La presentación PowerPoint conserva las preguntas, las respuestas de consulta y la animación; no necesita ejecutar JavaScript.
 
 En PowerPoint usa modo Presentación para botones, respuestas y animación. Las 22 diapositivas principales tienen notas y tiempos; hay 8 anexos de consulta.
 
