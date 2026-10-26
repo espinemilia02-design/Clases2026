@@ -1,4 +1,19 @@
-# Biología: de la curiosidad al servicio
+# Materiales de docencia · Emilia Espín Loza
+
+## Laboratorio openLCA · 50 minutos · Windows
+
+Práctica sobre bebida de avena y leche, basada en el tema del caso oficial del manual de openLCA 2. Adaptación gratuita con una minibase y **datos simulados**, para aprender a importar, calcular y comprobar resultados.
+
+- [Guía de laboratorio en Word](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_openlca_50min/Guia_laboratorio_openLCA_50min.docx)
+- [Diapositivas en PowerPoint](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_openlca_50min/Diapositivas_openLCA_50min.pptx)
+- [Paquete completo: Word, diapositivas interactivas, minibase, caso y controles](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_openlca_50min/Paquete_openLCA_50min.zip)
+- [Instrucciones y archivos del laboratorio](clase_openlca_50min/README.md)
+
+Instalación y descargas como preparación previa; 50 minutos de práctica. Se verificaron importación, estructura y cálculos con el motor real openLCA 2.6.2. El inventario ficticio no sirve para comparar productos reales.
+
+---
+
+## Biología: de la curiosidad al servicio
 
 Clase participativa de **40 minutos** para estudiantes universitarios. El recorrido conecta intereses, oportunidades en la universidad, formulación de proyectos y servicio comunitario. Incluye dos experiencias de Emilia Espín Loza como ejemplos.
 

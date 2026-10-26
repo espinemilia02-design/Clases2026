@@ -1,0 +1,60 @@
+{
+  "motor": "org.openlca:olca-core:2.6.2",
+  "solver": "JavaSolver",
+  "alcance_verificacion": "Importación JSON-LD y cálculos con motor real; interfaz de Windows no ejecutada en este entorno.",
+  "datos": "Todos los inventarios son simulados; no son AGRIBALYSE ni ecoinvent.",
+  "conteos": {
+    "procesos": 6,
+    "flujos": 10,
+    "metodos": 1,
+    "sistemas": 2
+  },
+  "entradas_producto_con_proveedor": 9,
+  "errores_validacion": [],
+  "avisos_validacion": [],
+  "avena_1L": {
+    "DOC_CO2_fosil_al_aire": 0.21160000000000004,
+    "DOC_Agua_extraida": 7.6244,
+    "DOC_N2O_al_aire": 1.20374E-4,
+    "DOC_CH4_no_fosil_al_aire": 7.48E-6,
+    "GWP100_kgCO2eq": 0.24370855000000005
+  },
+  "leche_1L": {
+    "DOC_CO2_fosil_al_aire": 0.38999999999999996,
+    "DOC_Agua_extraida": 100.81,
+    "DOC_CH4_no_fosil_al_aire": 0.050007,
+    "DOC_N2O_al_aire": 4.0035E-4,
+    "GWP100_kgCO2eq": 1.8962887499999999
+  },
+  "avena_2L": {
+    "DOC_CO2_fosil_al_aire": 0.4232000000000001,
+    "DOC_Agua_extraida": 15.2488,
+    "DOC_N2O_al_aire": 2.40748E-4,
+    "DOC_CH4_no_fosil_al_aire": 1.496E-5,
+    "GWP100_kgCO2eq": 0.4874171000000001
+  },
+  "leche_2L": {
+    "DOC_CO2_fosil_al_aire": 0.7799999999999999,
+    "DOC_Agua_extraida": 201.62,
+    "DOC_CH4_no_fosil_al_aire": 0.100014,
+    "DOC_N2O_al_aire": 8.007E-4,
+    "GWP100_kgCO2eq": 3.7925774999999997
+  },
+  "leche_con_50g_CH4": {
+    "DOC_CO2_fosil_al_aire": 0.38999999999999996,
+    "DOC_Agua_extraida": 100.81,
+    "DOC_CH4_no_fosil_al_aire": 0.050007,
+    "DOC_N2O_al_aire": 4.0035E-4,
+    "GWP100_kgCO2eq": 1.8962887499999999
+  },
+  "leche_CH4_menos_20pct": {
+    "DOC_CO2_fosil_al_aire": 0.38999999999999996,
+    "DOC_Agua_extraida": 100.81,
+    "DOC_CH4_no_fosil_al_aire": 0.040007,
+    "DOC_N2O_al_aire": 4.0035E-4,
+    "GWP100_kgCO2eq": 1.6162887499999998
+  },
+  "base_restaurada": true,
+  "estado": "PASS",
+  "tolerancia_absoluta": 1.0E-9
+}

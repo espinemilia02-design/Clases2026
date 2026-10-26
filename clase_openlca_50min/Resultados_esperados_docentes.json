@@ -1,0 +1,33 @@
+{
+  "avena": {
+    "unidad_funcional_L": 1.0,
+    "electricidad_total_kWh": 0.374,
+    "CO2_kg": 0.2116,
+    "CH4_kg": 7.48e-06,
+    "N2O_kg": 0.000120374,
+    "agua_extraida_L": 7.6244,
+    "GWP100_kgCO2eq": 0.24370855
+  },
+  "leche": {
+    "unidad_funcional_L": 1.0,
+    "electricidad_total_kWh": 0.35,
+    "CO2_kg": 0.39,
+    "CH4_kg": 0.050007,
+    "N2O_kg": 0.00040035,
+    "agua_extraida_L": 100.81,
+    "GWP100_kgCO2eq": 1.89628875
+  },
+  "leche_CH4_reducido_20pct": {
+    "ch4_ent_kg_por_L": 0.04,
+    "GWP100_kgCO2eq": 1.61628875,
+    "diferencia_absoluta_kgCO2eq": -0.28
+  },
+  "electricidad": {
+    "GWP100_kgCO2eq_por_kWh": 0.400825
+  },
+  "tolerancia_docente": {
+    "relativa": 0.001,
+    "nota": "0,1 % por redondeo visual; comparación de máquina: atol 1e-9."
+  },
+  "advertencia": "DATOS SIMULADOS para docencia. No representan un país, empresa o producto real. No son datos de AGRIBALYSE ni ecoinvent."
+}

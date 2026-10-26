@@ -1,0 +1,48 @@
+LABORATORIO OPENLCA · 50 MINUTOS · WINDOWS
+Bebida de avena y leche: adaptación didáctica del caso oficial del manual.
+
+TODOS LOS INVENTARIOS SON SIMULADOS. No son AGRIBALYSE ni ecoinvent.
+No usar estos resultados para comparar alimentos reales.
+
+ANTES DE LA CLASE
+1. Descarga openLCA para Windows desde https://www.openlca.org/download/
+2. Extrae el ZIP del software y ejecuta openLCA.exe desde la carpeta extraída.
+3. Registra la versión. Las rutas se apoyan en el manual oficial de openLCA 2.
+4. Lee la preparación previa de Guia_laboratorio_openLCA_50min.docx.
+
+ARCHIVOS DE MODELO
+- 01_BASE_DOCENTE_JSONLD.zip: unidades, flujos, 4 procesos de base y método.
+- 02_CASO_BEBIDAS_JSONLD.zip: 2 procesos de bebida y 2 sistemas preparados.
+Extrae el ZIP EXTERIOR del paquete, pero NO extraigas estos dos ZIP internos.
+Crea una base nueva EMPTY DATABASE e importa 01 y después 02 en la MISMA base.
+Usa JSON package (*.zip) / JSON-LD. No el selector Entire database (*.zolca).
+Control final: 6 procesos, 10 flujos, 2 sistemas y 1 método.
+
+PARA LA CLASE
+- Guia_laboratorio_openLCA_50min.docx: guía editable, pasos, controles y registro.
+- Guia_laboratorio_openLCA_50min.pdf: copia de lectura.
+- Diapositivas_openLCA_50min.pptx: 22 diapositivas principales y 8 anexos.
+  Abre en modo Presentación para botones, respuestas y animación.
+- Diapositivas_openLCA_50min_interactivas.html: abre en navegador de escritorio.
+  Funciona sin internet salvo enlaces a fuentes y recursos externos.
+  Flechas: navegar; N: notas; F: pantalla completa. Incluye calculadoras
+  de apoyo y descarga de los dos modelos. No sustituye el programa openLCA.
+
+PARA COMPROBAR
+- Inventario_docente_por_proceso.csv: cantidades, unidades y proveedores.
+- Resultados_esperados_docentes.csv / .json: resultados de control.
+- SHA256_MODELOS.txt: integridad de los dos ZIP de modelo.
+- Verificacion_motor_openLCA_2_6_2.json: importación, validador, inventarios,
+  GWP100, 2 L, equivalencia kg/g, sensibilidad y restauración: PASS.
+
+VERIFICACIÓN Y ALCANCE
+El motor real olca-core 2.6.2 importó y calculó ambos modelos sin errores ni
+avisos de validación. La interfaz de Windows no se ejecutó en este entorno.
+La instalación se prepara antes: los 50 minutos corresponden a la práctica.
+El método climático es docente y limitado a tres gases; agua sin factor
+no significa impacto cero. La unidad de 1 L no implica equivalencia nutricional.
+
+FUENTE DEL CASO OFICIAL
+https://github.com/GreenDelta/openLCA2-manual/blob/ae0588e4c013cca18ec1bf136cc144457d032541/src/conceptual_guideline.md
+Esta adaptación usa inventarios simulados; no incluye ni redistribuye datos de
+AGRIBALYSE ni ecoinvent.
