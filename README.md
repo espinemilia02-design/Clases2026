@@ -1,5 +1,15 @@
 # Materiales de docencia · Emilia Espín Loza
 
+## Diversidad microbiana en el ambiente
+
+Introducción visual de unos **10 minutos**, con árbol filogenético, comparación de tamaños y funciones ambientales de bacterias, arqueas, hongos, microalgas, protozoarios y virus.
+
+- [PowerPoint editable](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/diversidad_microbiana_intro/Diversidad_microbiana_intro.pptx)
+- [Presentación en PDF](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/diversidad_microbiana_intro/Diversidad_microbiana_intro.pdf)
+- [Materiales y guía docente](diversidad_microbiana_intro/README.md)
+
+---
+
 ## Laboratorio openLCA · 50 minutos · Windows
 
 Práctica sobre bebida de avena y leche, basada en el tema del caso oficial del manual de openLCA 2. Adaptación gratuita con una minibase y **datos simulados**, para aprender a importar, calcular y comprobar resultados.
