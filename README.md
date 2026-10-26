@@ -1,15 +1,38 @@
-# Presentación docente · Emilia Espín Loza
+# Biología: de la curiosidad al servicio
 
-Presentación de perfil docente y experiencia en microbiología.
+Clase participativa de **40 minutos** para estudiantes universitarios. El recorrido conecta intereses, oportunidades en la universidad, formulación de proyectos y servicio comunitario. Incluye dos experiencias de Emilia Espín Loza como ejemplos.
 
-**[Descargar PowerPoint](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/Emilia_Espin_Perfil_docente.pptx)**
+## Descargar los materiales
 
-Si GitHub solicita iniciar sesión, utiliza una cuenta con acceso a este repositorio.
-También puedes abrir `Emilia_Espin_Perfil_docente.pptx` y usar el botón de descarga del archivo.
+- [PowerPoint actualizado (40 minutos)](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/Emilia_Espin_Perfil_docente.pptx)
+- [Paquete completo: PowerPoint, PDF, HTML, guion y ficha](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_40min/Clase_Biologia_Proyectos_Comunidad_40min.zip)
+- [Diapositivas en PDF](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_40min/Biologia_Proyectos_Comunidad_40min.pdf)
+- [Guion para facilitar la clase](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_40min/Guion_40min_Emilia_Espin.pdf)
+- [Ficha de proyecto de una página](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/clase_40min/Ficha_proyecto_Biologia_1_pagina.pdf)
 
-- 23 diapositivas principales para unos 30 minutos y 7 anexos de consulta.
-- Notas para exponer, gráficos editables, cuatro animaciones y navegación interna.
-- Nueve espacios para fotos en las diapositivas 7, 11 y 18.
-- Abre el archivo en modo Presentación de PowerPoint para usar los botones y las animaciones.
+Si GitHub solicita iniciar sesión, utiliza una cuenta con acceso al repositorio. También puedes abrir un archivo y usar su botón de descarga.
 
-Diseño propio de estilo Business Review. La plantilla exacta enlazada no estuvo accesible durante la elaboración.
+## Cómo está organizada
+
+- 26 diapositivas principales y 6 anexos de consulta.
+- Intereses, confianza para empezar y personas o espacios que explorar en la universidad.
+- Preguntas investigables, selección de métodos y lectura crítica de resultados.
+- Colaboración comunitaria desde la pregunta hasta la devolución.
+- Una carrera que integra sustento, aprendizaje, comunidad y ambiente.
+- Taller de proyecto y presentación breve en parejas.
+
+## Uso en clase
+
+En PowerPoint, abre el modo Presentación para usar los botones y las cuatro animaciones. Las notas contienen el guion y los tiempos. Los gráficos de diversidad son editables.
+
+Los seis espacios para fotos están en las **diapositivas 9 y 17**.
+
+La versión HTML viene en el paquete. Descárgalo, descomprímelo y abre `Biologia_Proyectos_Comunidad_40min.html` en un navegador de escritorio. Funciona sin internet e incluye preguntas, campos para escribir y carga de fotos. Usa **Guardar copia** para conservar las fotos y los campos completados en un nuevo HTML. Atajos: flechas para navegar, **N** para notas y **F** para pantalla completa.
+
+La ficha de proyecto se puede imprimir o completar en un lector de PDF compatible con formularios.
+
+## Referencias
+
+Los métodos y resultados conservan como referencias `DS_Agua_Loja_2025.pptx`, `ECCA_EE_CY_vc1 (1).pptx` y el CV aportado. Los casos didácticos y el taller se identifican como propuestas para la clase. Las ilustraciones científicas son originales y conceptuales.
+
+![Portada de la clase](clase_40min/Portada_40min.png)
