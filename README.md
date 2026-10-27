@@ -1,5 +1,16 @@
 # Materiales de docencia · Emilia Espín Loza
 
+## Hongos: estructura, metabolismo y aplicaciones en Ecuador
+
+Clase visual de **120 minutos** para primer semestre. Incluye 39 diapositivas, cinco estudios de Ecuador, cuadros comparativos, notas docentes y una actividad de análisis de 30 minutos.
+
+- [PowerPoint editable](https://raw.githubusercontent.com/espinemilia02-design/Clases2026/main/hongos_ecuador_120min/Hongos_Ecuador_120min.pptx)
+- [Presentación en PDF](https://raw.githubusercontent.com/espinemilia02-design/Clases2026/main/hongos_ecuador_120min/Hongos_Ecuador_120min.pdf)
+- [Ficha de actividad](https://raw.githubusercontent.com/espinemilia02-design/Clases2026/main/hongos_ecuador_120min/Ficha_actividad_Hongos_30min.pdf)
+- [Materiales, artículos y guía docente](hongos_ecuador_120min/README.md)
+
+---
+
 ## Bacterias y arqueas: aplicaciones en Ecuador
 
 Clase visual de **50 minutos** para primer semestre de Microbiología, Biología y Ciencias Biomédicas. Incluye tres cuadros comparativos editables, siete estudios ecuatorianos, actividad de 8 minutos y notas docentes.
