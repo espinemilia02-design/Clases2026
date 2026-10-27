@@ -1,5 +1,15 @@
 # Materiales de docencia · Emilia Espín Loza
 
+## Bacterias y arqueas: aplicaciones en Ecuador
+
+Clase visual de **50 minutos** para primer semestre de Microbiología, Biología y Ciencias Biomédicas. Incluye tres cuadros comparativos editables, siete estudios ecuatorianos, actividad de 8 minutos y notas docentes.
+
+- [PowerPoint editable](https://raw.githubusercontent.com/espinemilia02-design/Clases2026/main/bacterias_arqueas_ecuador_50min/Bacterias_y_arqueas_Ecuador_50min.pptx)
+- [Presentación en PDF](https://raw.githubusercontent.com/espinemilia02-design/Clases2026/main/bacterias_arqueas_ecuador_50min/Bacterias_y_arqueas_Ecuador_50min.pdf)
+- [Materiales y guía docente](bacterias_arqueas_ecuador_50min/README.md)
+
+---
+
 ## Diversidad microbiana en el ambiente
 
 Introducción visual de unos **10 minutos**, con árbol filogenético, comparación de tamaños y funciones ambientales de bacterias, arqueas, hongos, microalgas, protozoarios y virus.
