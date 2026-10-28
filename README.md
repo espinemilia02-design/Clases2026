@@ -1,5 +1,16 @@
 # Materiales de docencia · Emilia Espín Loza
 
+## Microalgas y diatomeas: fotosíntesis y nutrientes
+
+Clase visual de **50 minutos** para primer semestre. Incluye 21 diapositivas para clase, seis de bibliografía, cuatro estudios de Ecuador y una actividad de análisis de 10 minutos.
+
+- [PowerPoint editable](https://raw.githubusercontent.com/espinemilia02-design/Clases2026/main/microalgas_diatomeas_ecuador_50min/Microalgas_y_diatomeas_Ecuador_50min.pptx)
+- [Presentación en PDF](https://raw.githubusercontent.com/espinemilia02-design/Clases2026/main/microalgas_diatomeas_ecuador_50min/Microalgas_y_diatomeas_Ecuador_50min.pdf)
+- [Ficha de actividad](https://raw.githubusercontent.com/espinemilia02-design/Clases2026/main/microalgas_diatomeas_ecuador_50min/Ficha_actividad_Microalgas_10min.pdf)
+- [Materiales, artículos y guía docente](microalgas_diatomeas_ecuador_50min/README.md)
+
+---
+
 ## Hongos: estructura, metabolismo y aplicaciones en Ecuador
 
 Clase visual de **120 minutos** para primer semestre. Incluye 39 diapositivas, cinco estudios de Ecuador, cuadros comparativos, notas docentes y una actividad de análisis de 30 minutos.
