@@ -1,5 +1,17 @@
 # Materiales de docencia · Emilia Espín Loza
 
+## Protozoarios y helmintos: células, alimentación y ambiente
+
+Clase visual de **40 minutos**, incluida una actividad de **6 minutos**, para primer semestre. Contiene 20 diapositivas de clase, siete de bibliografía, cuatro cuadros comparativos y cinco estudios de Ecuador de 2023–2026.
+
+- [PowerPoint editable](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/protozoarios_helmintos_ecuador_40min/Protozoarios_y_helmintos_Ecuador_40min.pptx)
+- [Presentación en PDF](https://github.com/espinemilia02-design/Clases2026/blob/main/protozoarios_helmintos_ecuador_40min/Protozoarios_y_helmintos_Ecuador_40min.pdf)
+- [Ficha de actividad](protozoarios_helmintos_ecuador_40min/Ficha_actividad_Protozoarios_6min.pdf)
+- [Guía docente y resúmenes de los artículos](protozoarios_helmintos_ecuador_40min/Guia_docente_Protozoarios_helmintos_40min.md)
+- [Todos los materiales](protozoarios_helmintos_ecuador_40min/README.md)
+
+---
+
 ## Microalgas y diatomeas: fotosíntesis y nutrientes
 
 Clase visual de **50 minutos** para primer semestre. Incluye 21 diapositivas para clase, seis de bibliografía, cuatro estudios de Ecuador y una actividad de análisis de 10 minutos.
