@@ -1,5 +1,17 @@
 # Materiales de docencia · Emilia Espín Loza
 
+## Virus: estructura, replicación y ambiente
+
+Clase visual de **40 minutos**, incluida una actividad de **6 minutos**, para primer semestre. Incluye 20 diapositivas de clase y cinco de bibliografía, esquemas de los ciclos lítico y lisogénico y tres estudios realizados en Ecuador.
+
+- [PowerPoint editable](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/virus_ecuador_40min/Virus_Ecuador_40min.pptx)
+- [Presentación en PDF](https://github.com/espinemilia02-design/Clases2026/blob/main/virus_ecuador_40min/Virus_Ecuador_40min.pdf)
+- [Ficha de actividad](virus_ecuador_40min/Ficha_actividad_Virus_6min.pdf)
+- [Guía docente y resúmenes de artículos](virus_ecuador_40min/Guia_docente_Virus_40min.md)
+- [Todos los materiales](virus_ecuador_40min/README.md)
+
+---
+
 ## Protozoarios y helmintos: células, alimentación y ambiente
 
 Clase visual de **40 minutos**, incluida una actividad de **6 minutos**, para primer semestre. Contiene 20 diapositivas de clase, siete de bibliografía, cuatro cuadros comparativos y cinco estudios de Ecuador de 2023–2026.
