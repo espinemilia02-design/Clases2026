@@ -1,5 +1,18 @@
 # Materiales de docencia · Emilia Espín Loza
 
+## Ecodiseño y sostenibilidad · Normativa y sistemas de gestión
+
+Bloque de explicación de **40 minutos**, con **18 diapositivas de clase y tres de bibliografía**. Incluye normativa ambiental ecuatoriana, ISO 14001, ISO 50001, ISO 26000 e ISO 37101, gráficos editables y un guion docente detallado de 23 páginas.
+
+- [Paquete completo: PowerPoint, Word y PDF](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/ecodiseno_normativa_40min/Material_clase_normativa.zip)
+- [PowerPoint editable con notas docentes](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/ecodiseno_normativa_40min/Clase_normativa_y_sistemas_de_gestion.pptx)
+- [Presentación en PDF](ecodiseno_normativa_40min/Clase_normativa_y_sistemas_de_gestion.pdf)
+- [Guion docente en Word](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/ecodiseno_normativa_40min/Guion_docente_normativa_y_sistemas_de_gestion.docx)
+- [Guion docente en PDF](ecodiseno_normativa_40min/Guion_docente_normativa_y_sistemas_de_gestion.pdf)
+- [Organización y uso de los materiales](ecodiseno_normativa_40min/README.md)
+
+---
+
 ## Virus: estructura, replicación y ambiente
 
 Clase visual de **40 minutos**, incluida una actividad de **6 minutos**, para primer semestre. Incluye 20 diapositivas de clase y cinco de bibliografía, esquemas de los ciclos lítico y lisogénico y tres estudios realizados en Ecuador.
