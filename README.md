@@ -1,5 +1,17 @@
 # Materiales de docencia · Emilia Espín Loza
 
+## Microorganismos y salud · agentes patógenos y proyectos
+
+Clase de **180 minutos**: recuperación, descanso, bases de importancia médica, taller y cierre. Incluye **35 diapositivas de clase y seis de bibliografía**, evidencia de Ecuador y una adaptación del material de Emilia Espín para focalizar proyectos de salud.
+
+- [PowerPoint editable](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/agentes_importancia_medica_180min/Agentes_de_importancia_medica_180min.pptx)
+- [Presentación en PDF](agentes_importancia_medica_180min/Agentes_de_importancia_medica_180min.pdf)
+- [Ficha de recuperación, taller, proyecto y rúbrica](agentes_importancia_medica_180min/Ficha_recuperacion_y_taller.pdf)
+- [Guía docente y resúmenes de artículos](agentes_importancia_medica_180min/Guia_docente_Agentes_importancia_medica.md)
+- [Todos los materiales](agentes_importancia_medica_180min/README.md)
+
+---
+
 ## Ecodiseño y sostenibilidad · Normativa y sistemas de gestión
 
 Bloque de explicación de **40 minutos**, con **18 diapositivas de clase y tres de bibliografía**. Incluye normativa ambiental ecuatoriana, ISO 14001, ISO 50001, ISO 26000 e ISO 37101, gráficos editables y un guion docente detallado de 23 páginas.
