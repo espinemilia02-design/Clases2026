@@ -1,5 +1,17 @@
 # Materiales de docencia · Emilia Espín Loza
 
+## Refuerzo: grupos microbianos y alimentos · 90 minutos
+
+Clase con el estilo visual de la colección y **55 minutos de actividades**: completar 14 rótulos de estructuras, comparar los siete grupos y conectar procesos con alimentos.
+
+- [Ver todos los materiales y las instrucciones](refuerzo_micro_alimentos_90min/README.md)
+- [Descargar PowerPoint](https://github.com/espinemilia02-design/Clases2026/raw/refs/heads/main/refuerzo_micro_alimentos_90min/Refuerzo_microorganismos_alimentos_90min.pptx)
+- [Presentación PDF](refuerzo_micro_alimentos_90min/Refuerzo_microorganismos_alimentos_90min.pdf)
+- [Fichas para estudiantes](refuerzo_micro_alimentos_90min/Fichas_actividades_alimentos.pdf)
+- [Guía docente y respuestas](refuerzo_micro_alimentos_90min/Guia_docente_refuerzo_alimentos.pdf)
+
+---
+
 ## Microorganismos y salud · agentes patógenos y proyectos
 
 Clase de **180 minutos**: recuperación, descanso, bases de importancia médica, taller y cierre. Incluye **35 diapositivas de clase y seis de bibliografía**, evidencia de Ecuador y una adaptación del material de Emilia Espín para focalizar proyectos de salud.

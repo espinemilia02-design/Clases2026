@@ -1,0 +1,304 @@
+{
+  "references": [
+    [
+      "R1",
+      "Parker et al. (2016). Microbiology. OpenStax. Organización celular, metabolismo, crecimiento y microorganismos alimentarios.",
+      "https://openstax.org/details/books/microbiology"
+    ],
+    [
+      "R2",
+      "Tigrero-Vaca, Villavicencio-Vásquez, Coronel y Cevallos-Cevallos (2025). Multi-platform metagenomic characterization of the microbial community during spontaneous cacao fermentation. Front. Bioeng. Biotechnol. 13:1630515.",
+      "https://doi.org/10.3389/fbioe.2025.1630515"
+    ],
+    [
+      "R3",
+      "Sevilla-Navarro et al. (2026). Genomic and Functional Characterization of Lytic Tlsvirus Bacteriophages Targeting Salmonella Infantis Isolated from Poultry Farms in Ecuador. Biology 15:232.",
+      "https://doi.org/10.3390/biology15030232"
+    ],
+    [
+      "R4",
+      "González-Ramírez et al. (2024, versión 2). Field study of parasitic contamination of fruits, vegetables and leafy greens in the Ecuadorian Andes. F1000Research 12:532.",
+      "https://doi.org/10.12688/f1000research.132957.2"
+    ],
+    [
+      "R5",
+      "Calvopiña et al. (2026; publicación en línea 2025). Genetic characterization of Contracaecum cf. overstreeti (Nematoda: Anisakidae) larvae in Mugil cephalus fish from the pacific coast of Ecuador. Int. J. Parasitol. Parasites Wildl. 29:101185.",
+      "https://doi.org/10.1016/j.ijppaw.2025.101185"
+    ],
+    [
+      "R6",
+      "BfR (2024). Noroviruses – recognizing and avoiding sources of infection. Documento oficial: persistencia y transmisión mediante alimentos.",
+      "https://mobil.bfr.bund.de/cm/349/noroviruses-recognizing-and-avoiding-sources-of-infection.pdf"
+    ],
+    [
+      "R7",
+      "Singapore Food Agency. Safety of Bivalve Molluscs. Recurso oficial vigente: biotoxinas marinas y limitaciones de la cocción. Consultado el 18-11-2026.",
+      "https://www.sfa.gov.sg/food-safety-tips/food-risk-concerns/risk-at-a-glance/safety-of-bivalve"
+    ],
+    [
+      "R8",
+      "OMS. Five keys to safer food. Recurso oficial vigente: higiene, separación, cocción, temperatura, agua y materias primas. Consultado el 18-11-2026.",
+      "https://www.who.int/activities/promoting-safe-food-handling/five-key-to-safer-food/"
+    ],
+    [
+      "R9",
+      "CDC. V. Background: Norovirus infection-control guidance. Recurso oficial vigente: detectar material viral no determina por sí solo la infectividad. Consultado el 18-11-2026.",
+      "https://www.cdc.gov/infection-control/hcp/norovirus-guidelines/background.html"
+    ]
+  ],
+  "slides": [
+    {
+      "slide": 1,
+      "title": "Grupos microbianos y alimentos",
+      "refs": "R1–R9",
+      "notes": "Clase de refuerzo de 90 minutos, con cinco actividades que suman 55 minutos. Iniciar la actividad 1 tras mostrar brevemente portada y recorrido. Los helmintos son animales multicelulares y se incluyen por su importancia alimentaria y etapas microscópicas. No se cultivan agentes ni se manipulan alimentos reales."
+    },
+    {
+      "slide": 2,
+      "title": "Cinco actividades para recuperar y aplicar",
+      "refs": "Diseño docente",
+      "notes": "Tiempo de actividades: 6 + 14 + 12 + 16 + 7 = 55 minutos. Explicación, retroalimentación y cierre: 35 minutos. Equipos de 3–4, con respuestas individuales en la ficha. Los casos largos quedan como anexo opcional, fuera del recorrido de 90 minutos."
+    },
+    {
+      "slide": 3,
+      "title": "Relaciona el alimento con un grupo",
+      "refs": "R1, R8",
+      "notes": "1 min observar, 3 min completar, 2 min compartir. Ejemplos: yogur bacterias, pan levaduras/hongos, cacao comunidad de bacterias y levaduras, biomasa acuícola microalgas, agua de lavado protozoarios/virus como posibles contaminantes, pescado helmintos como posible peligro. Son ejemplos, no propiedades universales del alimento. Permitir varios grupos si la explicación es válida."
+    },
+    {
+      "slide": 4,
+      "title": "Primero, distingue la organización",
+      "refs": "R1",
+      "notes": "Bacterias y arqueas son procariotas de linajes distintos. Hongos, microalgas eucariotas, protozoarios y helmintos tienen organización eucariota; los helmintos son multicelulares. Microalga es un término funcional: aquí se distingue de cianobacterias, que son bacterias. Virus: agentes acelulares que requieren células para replicarse."
+    },
+    {
+      "slide": 5,
+      "title": "Comprueba la escala antes de comparar",
+      "refs": "R1",
+      "notes": "1 µm = 1000 nm. Los intervalos son ejemplos frecuentes. En hongos, 3–15 µm se refiere a células de levadura, no a setas. Los helmintos adultos son multicelulares; huevos o larvas pueden ser microscópicos. El tamaño por sí solo no identifica al grupo."
+    },
+    {
+      "slide": 6,
+      "title": "Completa las estructuras · 1/3",
+      "refs": "R1",
+      "notes": "Actividad 2 completa: 14 min en total para las tres láminas. Identificar solo los rótulos numerados. Los rótulos 1 y 4 aceptan ADN/nucleoide. En 2 debe indicarse pared, preferentemente peptidoglucano. El ejemplo de protozoario es un ciliado de vida libre y no representa Giardia. El nematodo es un esquema corporal, no la identificación de un parásito específico. La forma dibujada no decide comestibilidad ni riesgo por sí sola. Respuestas: 1 Nucleoide; 2 Pared de peptidoglucano; 3 Membrana (enlaces éter); 4 Nucleoide / ADN; 5 Núcleo; 6 Pared (quitina y glucanos)."
+    },
+    {
+      "slide": 7,
+      "title": "Completa las estructuras · 2/3",
+      "refs": "R1",
+      "notes": "Actividad 2 completa: 14 min en total para las tres láminas. Identificar solo los rótulos numerados. Los rótulos 1 y 4 aceptan ADN/nucleoide. En 2 debe indicarse pared, preferentemente peptidoglucano. El ejemplo de protozoario es un ciliado de vida libre y no representa Giardia. El nematodo es un esquema corporal, no la identificación de un parásito específico. La forma dibujada no decide comestibilidad ni riesgo por sí sola. Respuestas: 7 Cloroplasto; 8 Frústulo de sílice."
+    },
+    {
+      "slide": 8,
+      "title": "Completa las estructuras · 3/3",
+      "refs": "R1",
+      "notes": "Actividad 2 completa: 14 min en total para las tres láminas. Identificar solo los rótulos numerados. Los rótulos 1 y 4 aceptan ADN/nucleoide. En 2 debe indicarse pared, preferentemente peptidoglucano. El ejemplo de protozoario es un ciliado de vida libre y no representa Giardia. El nematodo es un esquema corporal, no la identificación de un parásito específico. La forma dibujada no decide comestibilidad ni riesgo por sí sola. Respuestas: 9 Núcleo; 10 Cilios; 11 Cutícula; 12 Tejidos internos; 13 Cápside; 14 Genoma."
+    },
+    {
+      "slide": 9,
+      "title": "Las estructuras explican diferencias",
+      "refs": "R1",
+      "notes": "26–34 min: retroalimentación del atlas. Mostrar respuestas completas solo si es necesario con los anexos 25–27. Un mismo rótulo aparece en más de un grupo. El núcleo distingue eucariotas de procariotas, pero no basta para distinguir todos los eucariotas entre sí. La pared varía y no se confunde con la membrana. Los helmintos son animales multicelulares; los virus son acelulares."
+    },
+    {
+      "slide": 10,
+      "title": "Completa el cuadro comparativo · 1/2",
+      "refs": "R1",
+      "notes": "Actividad 3 completa: 12 min para ambas partes, 2 min leer, 7 min completar y 3 min comparar con una pareja. Dos espacios por grupo. Aceptar variantes científicamente válidas y ejemplos alternativos. La relación con el alimento depende de la especie, cepa y condiciones; no es una función universal ni exclusiva de todo un grupo."
+    },
+    {
+      "slide": 11,
+      "title": "Completa el cuadro comparativo · 2/2",
+      "refs": "R1",
+      "notes": "Actividad 3 completa: 12 min para ambas partes, 2 min leer, 7 min completar y 3 min comparar con una pareja. Dos espacios por grupo. Aceptar variantes científicamente válidas y ejemplos alternativos. La relación con el alimento depende de la especie, cepa y condiciones; no es una función universal ni exclusiva de todo un grupo."
+    },
+    {
+      "slide": 12,
+      "title": "Una comparación completa conecta procesos",
+      "refs": "R1",
+      "notes": "46–53 min: síntesis de comparación y conexión con funcionamiento. Este cuadro es una clave, no una única respuesta posible. En protozoarios de vida libre se muestra una contribución al sistema acuático; otros, como Giardia, pueden transmitirse por agua o alimentos contaminados. En helminthos se muestra un peligro posible, no una propiedad de cualquier pescado ni de todos los helmintos. Norovirus no crece autónomamente en jugo."
+    },
+    {
+      "slide": 13,
+      "title": "Nutrición, energía y reproducción no son lo mismo",
+      "refs": "R1",
+      "notes": "Fuente de carbono, vía de producción de ATP y multiplicación son dimensiones diferentes. En levadura, la glucólisis aporta ATP y la ruta fermentativa permite mantener el balance redox. Heterotrofía no es una vía de generación de ATP. La gemación aumenta el número de células; el CO₂ cambia el volumen de la masa. En Giardia, los mitosomas no producen ATP y la glucólisis/rutas fermentativas son citosólicas; mencionarlo como precisión de recuperación si surge."
+    },
+    {
+      "slide": 14,
+      "title": "Cacao ecuatoriano: distintos grupos cooperan",
+      "refs": "R2",
+      "notes": "Tigrero-Vaca et al. (2025) caracterizaron microorganismos durante fermentación espontánea de cacao ecuatoriano mediante herramientas de secuenciación y cultivo. La comunidad incluye levaduras y bacterias lácticas y acéticas. El gráfico no representa abundancias ni tiempos universales. Detectar un taxón no demuestra por sí solo calidad o inocuidad de un lote."
+    },
+    {
+      "slide": 15,
+      "title": "Completa las rutas entre microbios y alimentos",
+      "refs": "R1",
+      "notes": "Actividad 4: 3 min revisar banco, 7 min completar las tres rutas, 4 min marcar y corregir las afirmaciones y 2 min contrastar. Respuestas: 15 levadura/hongo; 16 CO₂; 17 bacterias lácticas; 18 ácido láctico; 19 arqueas metanógenas; 20 CH₄/metano. En biodigestión, bacterias aportan intermediarios y las arqueas metanógenas forman metano. Las rutas son conceptuales, no recetas ni protocolos."
+    },
+    {
+      "slide": 16,
+      "title": "Marca V o F y corrige las falsas",
+      "refs": "R1",
+      "notes": "Respuestas: V, F, V, F, F. Las arqueas metanógenas actúan en anaerobiosis. La endospora es resistencia y no aumenta por sí sola el número de células. La apariencia o el sabor no prueban inocuidad. El norovirus puede transportarse en alimentos sin multiplicarse autónomamente en ellos. No pedir probar ni oler alimentos como parte del ejercicio."
+    },
+    {
+      "slide": 17,
+      "title": "Compara dos ciclos de una misma partícula",
+      "refs": "R1, R3",
+      "notes": "Para bacteriófagos: lítico implica producción de nuevas partículas y puede terminar en lisis. En lisogenia el genoma persiste como profago y se hereda con la división de la bacteria; una inducción puede llevar a un ciclo productivo. Los fagos propuestos para biocontrol alimentario se seleccionan por características como actividad lítica y compatibilidad con las cepas objetivo; no todos los fagos sirven para todas las bacterias."
+    },
+    {
+      "slide": 18,
+      "title": "Comprueba las tres rutas",
+      "refs": "R1",
+      "notes": "69–78 min: puesta en común. Pan: la levadura produce CO₂ que queda retenido en la masa. Yogur: bacterias lácticas transforman la lactosa y producen ácido láctico, con descenso de pH. Biogás: consorcios bacterianos y arqueanos, con metanogénesis anaerobia. No atribuir producción de ATP adicional al paso final piruvato a etanol o lactato. El proceso controlado no garantiza de manera automática la inocuidad del lote."
+    },
+    {
+      "slide": 19,
+      "title": "Distingue aplicación y evidencia",
+      "refs": "R2–R5, R9",
+      "notes": "Unir aplicación con condición y límite. Por ejemplo, un fago activo en ensayos debe evaluarse en la matriz y cepa de interés; la remoción parcial de nutrientes se limita a condiciones del estudio; observar contaminación parasitaria no demuestra especie, viabilidad o enfermedad de consumidores. Los casos largos del anexo son optativos y no se añaden al tiempo de 90 minutos."
+    },
+    {
+      "slide": 20,
+      "title": "Completa tu conexión final",
+      "refs": "R1",
+      "notes": "78–85 min: 1 min elegir, 4 min completar y 2 min revisión con pareja. Pedir un alimento, grupo, característica, proceso y condición o límite. Añadir una diferencia entre dos grupos. No exigir más de una o dos características; valorar claridad y corrección. La ficha contiene los espacios. El cierre retoma el primer alimento elegido."
+    },
+    {
+      "slide": 21,
+      "title": "Lo importante es conectar la diferencia con el alimento",
+      "refs": "R1, R8",
+      "notes": "85–90 min: dos estudiantes comparten una conexión y una diferencia. Reforzar organización, estructuras, nutrición/energía y reproducción/resistencia. Las cinco claves de la OMS sirven como marco de higiene y manipulación, sin afirmar que la cocción elimina cualquier toxina. Agradecer la argumentación y solicitar las fichas como evidencia formativa."
+    },
+    {
+      "slide": 22,
+      "title": "Referencias científicas y de consulta",
+      "refs": "R1–R9",
+      "notes": "Referencias verificadas en la versión inicial. R2–R5 corresponden a estudios vinculados a Ecuador. Las figuras son ilustraciones originales, no reproducciones de los resultados. Consultadas el 18 de noviembre de 2026."
+    },
+    {
+      "slide": 23,
+      "title": "Referencias científicas y de consulta",
+      "refs": "R1–R9",
+      "notes": "Referencias verificadas en la versión inicial. R2–R5 corresponden a estudios vinculados a Ecuador. Las figuras son ilustraciones originales, no reproducciones de los resultados. Consultadas el 18 de noviembre de 2026."
+    },
+    {
+      "slide": 24,
+      "title": "Referencias científicas y de consulta",
+      "refs": "R1–R9",
+      "notes": "Referencias verificadas en la versión inicial. R2–R5 corresponden a estudios vinculados a Ecuador. Las figuras son ilustraciones originales, no reproducciones de los resultados. Consultadas el 18 de noviembre de 2026."
+    },
+    {
+      "slide": 25,
+      "title": "Respuestas del atlas · 1/3",
+      "refs": "R1",
+      "notes": "Actividad 2 completa: 14 min en total para las tres láminas. Identificar solo los rótulos numerados. Los rótulos 1 y 4 aceptan ADN/nucleoide. En 2 debe indicarse pared, preferentemente peptidoglucano. El ejemplo de protozoario es un ciliado de vida libre y no representa Giardia. El nematodo es un esquema corporal, no la identificación de un parásito específico. La forma dibujada no decide comestibilidad ni riesgo por sí sola. Respuestas: 1 Nucleoide; 2 Pared de peptidoglucano; 3 Membrana (enlaces éter); 4 Nucleoide / ADN; 5 Núcleo; 6 Pared (quitina y glucanos)."
+    },
+    {
+      "slide": 26,
+      "title": "Respuestas del atlas · 2/3",
+      "refs": "R1",
+      "notes": "Actividad 2 completa: 14 min en total para las tres láminas. Identificar solo los rótulos numerados. Los rótulos 1 y 4 aceptan ADN/nucleoide. En 2 debe indicarse pared, preferentemente peptidoglucano. El ejemplo de protozoario es un ciliado de vida libre y no representa Giardia. El nematodo es un esquema corporal, no la identificación de un parásito específico. La forma dibujada no decide comestibilidad ni riesgo por sí sola. Respuestas: 7 Cloroplasto; 8 Frústulo de sílice."
+    },
+    {
+      "slide": 27,
+      "title": "Respuestas del atlas · 3/3",
+      "refs": "R1",
+      "notes": "Actividad 2 completa: 14 min en total para las tres láminas. Identificar solo los rótulos numerados. Los rótulos 1 y 4 aceptan ADN/nucleoide. En 2 debe indicarse pared, preferentemente peptidoglucano. El ejemplo de protozoario es un ciliado de vida libre y no representa Giardia. El nematodo es un esquema corporal, no la identificación de un parásito específico. La forma dibujada no decide comestibilidad ni riesgo por sí sola. Respuestas: 9 Núcleo; 10 Cilios; 11 Cutícula; 12 Tejidos internos; 13 Cápside; 14 Genoma."
+    },
+    {
+      "slide": 28,
+      "title": "Pollo: ¿basta con aplicar un fago?",
+      "refs": "R3",
+      "notes": "Caso opcional A. El agente controlador es el fago; Salmonella es la bacteria objetivo. La caracterización y actividad observada apoyan una candidatura, no garantizan inocuidad de todo producto. Evaluar la cepa, la matriz alimentaria y las condiciones de uso; mantener controles de higiene. Límite: Actividad contra cepas evaluadas ≠ eficacia universal."
+    },
+    {
+      "slide": 29,
+      "title": "Ensalada: ¿qué indica encontrar quistes?",
+      "refs": "R4",
+      "notes": "Caso opcional B. Quistes u ooquistes pueden persistir y transmitirse; no se reproducen por el hecho de enquistarse. La observación de contaminación justifica investigar agua, higiene y manipulación. La microscopía no demuestra por sí sola especie, viabilidad ni infección de consumidores. Límite: El resultado del estudio no representa a todos los productos del país."
+    },
+    {
+      "slide": 30,
+      "title": "Pescado: ¿una larva es una célula?",
+      "refs": "R5",
+      "notes": "Caso opcional C. La larva es un animal multicelular, no una célula ni un protozoario. El estudio documenta presencia e identidad en el muestreo. La presencia de Contracaecum cf. overstreeti no prueba por sí sola enfermedad humana ni prevalencia nacional. El control requiere procesos validados para el parásito y el producto. Límite: Presencia de larvas ≠ demostración de enfermedad humana."
+    },
+    {
+      "slide": 31,
+      "title": "Jugo: ¿el virus crece en la botella?",
+      "refs": "R6, R9",
+      "notes": "Caso opcional D. El norovirus necesita células hospedadoras humanas para replicarse; el alimento puede transportarlo. La detección de ARN indica material viral y no determina por sí sola infectividad. Investigar manipulación, manos, agua y contaminación posterior al proceso. No asumir inocuidad ni infectividad solo por esa prueba. Límite: ARN detectado ≠ infectividad demostrada."
+    },
+    {
+      "slide": 32,
+      "title": "Mariscos: ¿la cocción resuelve una toxina?",
+      "refs": "R7",
+      "notes": "Caso opcional E. Los bivalvos pueden acumular toxinas de microalgas durante la alimentación. Varias biotoxinas marinas son termoestables; cocinar no garantiza eliminarlas. Corresponde controlar procedencia y monitoreo de las zonas y seguir las medidas oficiales. No todas las microalgas producen toxinas ni toda floración es tóxica. Límite: Reducir células viables no equivale a eliminar una toxina."
+    }
+  ],
+  "duration_min": 90,
+  "activity_min": 55,
+  "style": "Colección Microbiología 2026; fondo blanco e ilustración científica",
+  "atlas_answers": [
+    [
+      1,
+      "Nucleoide"
+    ],
+    [
+      2,
+      "Pared de peptidoglucano"
+    ],
+    [
+      3,
+      "Membrana (enlaces éter)"
+    ],
+    [
+      4,
+      "Nucleoide / ADN"
+    ],
+    [
+      5,
+      "Núcleo"
+    ],
+    [
+      6,
+      "Pared (quitina y glucanos)"
+    ],
+    [
+      7,
+      "Cloroplasto"
+    ],
+    [
+      8,
+      "Frústulo de sílice"
+    ],
+    [
+      9,
+      "Núcleo"
+    ],
+    [
+      10,
+      "Cilios"
+    ],
+    [
+      11,
+      "Cutícula"
+    ],
+    [
+      12,
+      "Tejidos internos"
+    ],
+    [
+      13,
+      "Cápside"
+    ],
+    [
+      14,
+      "Genoma"
+    ]
+  ]
+}
