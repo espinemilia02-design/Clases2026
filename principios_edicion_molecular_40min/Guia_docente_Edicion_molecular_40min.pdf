@@ -1,0 +1,703 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 38 0 R 46 0 R] /Count 11 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 11487 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (1) Tj ET
+BT /F2 23 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 779.73 Tm (Gu\355a docente de principios de edici\363n molecular) Tj ET
+BT /F2 12 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 745.8 Tm (Clase de 40 minutos para quinto semestre. Trabajo web posterior con NCBI y CHOPCHOP.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 713.84 Tm (Objetivos de aprendizaje) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 690.638 Tm (Explicar edici\363n gen\351tica y distinguirla de clonaci\363n y expresi\363n; reconocer gu\355a, nucleasa y PAM;) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 676.328 Tm (comparar ZFN, TALEN y CRISPR; relacionar reparaci\363n con resultados; interpretar predicciones y) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 662.018 Tm (proponer verificaci\363n.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 630.66 Tm (Materiales y uso) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 607.458 Tm (La versi\363n de clase tiene 24 diapositivas de contenido y dos de bibliograf\355a. La versi\363n completa a\361ade) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 593.148 Tm (cinco anexos antes de las referencias. Los tiempos aparecen aqu\355. Los gr\341ficos son esquemas originales y) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 578.838 Tm (editables; no se elaboraron en BioRender. Las secuencias y los datos de ejercicio est\341n identificados como) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 564.528 Tm (modelos.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 533.17 Tm (Cronograma de 40 minutos) Tj ET
+q 0.8627 0.9098 0.9373 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 494.92 38 24.8 re B Q
+BT /F2 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 505.44 Tm (Diap.) Tj ET
+q 0.8627 0.9098 0.9373 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 494.92 92 24.8 re B Q
+BT /F2 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 505.44 Tm (Intervalo) Tj ET
+q 0.8627 0.9098 0.9373 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 494.92 377 24.8 re B Q
+BT /F2 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 505.44 Tm (Tema) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 470.12 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 480.64 Tm (1) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 470.12 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 480.64 Tm (0\2260.5 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 470.12 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 480.64 Tm (Editar ADN: del sitio elegido al cambio comprobado) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 445.32 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 455.84 Tm (2) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 445.32 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 455.84 Tm (0.5\2262.5 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 445.32 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 455.84 Tm (Cinco conceptos para entender la edici\363n) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 420.52 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 431.04 Tm (3) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 420.52 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 431.04 Tm (2.5\2263.5 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 420.52 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 431.04 Tm (Clonar, expresar y editar responden preguntas distintas) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 395.72 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 406.24 Tm (4) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 395.72 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 406.24 Tm (3.5\2265 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 395.72 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 406.24 Tm (\277Qu\351 significa cambiar una secuencia?) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 370.92 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 381.44 Tm (5) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 370.92 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 381.44 Tm (5\2266.5 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 370.92 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 381.44 Tm (Primero decide qu\351 quieres saber) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 346.12 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 356.64 Tm (6) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 346.12 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 356.64 Tm (6.5\2268.5 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 346.12 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 356.64 Tm (Tres plataformas para reconocer y cortar ADN) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 321.32 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 331.84 Tm (7) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 321.32 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 331.84 Tm (8.5\22610 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 321.32 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 331.84 Tm (ZFN y TALEN: reconocimiento por prote\355nas) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 296.52 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 307.04 Tm (8) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 296.52 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 307.04 Tm (10\22611 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 296.52 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 307.04 Tm (CRISPR naci\363 como defensa de microorganismos) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 271.72 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 282.24 Tm (9) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 271.72 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 282.24 Tm (11\22613 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 271.72 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 282.24 Tm (Cas9 necesita una gu\355a y un ADN compatible) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 246.92 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 257.44 Tm (10) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 246.92 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 257.44 Tm (13\22615 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 246.92 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 257.44 Tm (La gu\355a reconoce; el PAM permite el reconocimiento) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 222.12 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 232.64 Tm (11) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 222.12 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 232.64 Tm (15\22618 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 222.12 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 232.64 Tm (El corte abre dos rutas de reparaci\363n) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 197.32 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 207.84 Tm (12) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 197.32 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 207.84 Tm (18\22619.5 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 197.32 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 207.84 Tm (Una poblaci\363n tratada puede tener varios resultados) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 172.52 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 183.04 Tm (13) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 172.52 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 183.04 Tm (19.5\22621.5 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 172.52 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 183.04 Tm (Tambi\351n se puede editar sin buscar un corte doble) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 147.72 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 158.24 Tm (14) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 147.72 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 158.24 Tm (21.5\22622.5 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 147.72 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 158.24 Tm (\277C\363mo llega la herramienta a la c\351lula?) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 122.92 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 133.44 Tm (15) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 122.92 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 133.44 Tm (22.5\22624.5 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 122.92 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 133.44 Tm (Dise\361ar incluye decidir c\363mo demostrar el cambio) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 98.12 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 108.64 Tm (16) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 98.12 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 108.64 Tm (24.5\22626 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 98.12 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 108.64 Tm (En investigaci\363n, editar sirve para poner a prueba una hip\363tesis) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 73.32 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 83.84 Tm (17) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 73.32 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 83.84 Tm (26\22628 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 73.32 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 83.84 Tm (Dos aplicaciones reales, dos mecanismos distintos) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 48.52 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 59.04 Tm (18) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 48.52 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 59.04 Tm (28\22629.5 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 48.52 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 59.04 Tm (Dirigir el sitio es una parte de la precisi\363n) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4311 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (2) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 776.09 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 786.61 Tm (19) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 776.09 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 786.61 Tm (29.5\22631.5 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 776.09 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 786.61 Tm (Juego: elige una estrategia y explica por qu\351) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 751.29 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 761.81 Tm (20) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 751.29 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 761.81 Tm (31.5\22632.5 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 751.29 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 761.81 Tm (Herramientas web: del gen a una decisi\363n razonada) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 726.49 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 737.01 Tm (21) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 726.49 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 737.01 Tm (32.5\22635 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 726.49 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 737.01 Tm (Misi\363n GL1: relacionar ADN y tricomas) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 701.69 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 712.21 Tm (22) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 701.69 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 712.21 Tm (35\22637 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 701.69 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 712.21 Tm (El mayor puntaje no decide por s\355 solo) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 676.89 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 687.41 Tm (23) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 676.89 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 687.41 Tm (37\22638 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 676.89 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 687.41 Tm (Tu entrega: defender una elecci\363n con evidencia) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 652.09 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 662.61 Tm (24) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 652.09 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 662.61 Tm (38\22639 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 652.09 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 662.61 Tm (Antes de salir, explica estas tres ideas) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 627.29 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 637.81 Tm (25) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 627.29 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 637.81 Tm (39\22639.5 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 627.29 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 637.81 Tm (Referencias bibliogr\341ficas) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 602.49 38 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 613.01 Tm (26) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 82 602.49 92 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 88 613.01 Tm (39.5\22640 min) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 174 602.49 377 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 180 613.01 Tm (Referencias bibliogr\341ficas) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4651 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (3) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 780.09 Tm (C\363mo conducir las actividades) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 745.84 Tm (Juego de estrategias \267 diapositiva 19) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 722.638 Tm (Dar tres encargos: p\351rdida de funci\363n, cambiar una base compatible y a\361adir un reportero. Pedir estrategia,) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 708.328 Tm (l\355mite y verificaci\363n. Aceptar alternativas justificadas en lugar de una relaci\363n r\355gida entre objetivo y) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 694.018 Tm (herramienta.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 662.66 Tm (Misi\363n GL1 \267 diapositivas 20\22622) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 639.458 Tm (Presentar NCBI y CHOPCHOP y discutir la tabla ficticia. La clase no depende de que termine una) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 625.148 Tm (b\372squeda del servidor. La tarea posterior aporta la evidencia de navegaci\363n y la comparaci\363n real si el) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 610.838 Tm (servicio est\341 disponible.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 579.48 Tm (Cierre \267 diapositiva 24) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 556.278 Tm (Solicitar una frase por paso: reconocer, modificar y comprobar. Corregir la idea de que Cas9 produce) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 541.968 Tm (autom\341ticamente una edici\363n uniforme o que toda edici\363n requiere una rotura doble.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 510.61 Tm (Organizaci\363n del trabajo posterior) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 487.408 Tm (Trabajo en parejas de 30\22645 minutos adicionales como estimaci\363n. Informe de hasta dos p\341ginas m\341s) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 473.098 Tm (tabla y capturas. La modalidad sin servidor se identifica como interpretaci\363n de datos simulados.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 441.74 Tm (Respuestas y criterios de discusi\363n) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 418.538 Tm (Juego A: nucleasa y uni\363n de extremos pueden generar variantes de p\351rdida de funci\363n, pero se debe) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 404.228 Tm (confirmar cada alelo. Juego B: editor de bases si cambio, PAM y ventana son compatibles; prime editing) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 389.918 Tm (puede ser alternativa. Juego C: un dise\361o de inserci\363n, como un enfoque con molde y HDR cuando el) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 375.608 Tm (sistema lo permita. El tama\361o y el sistema pueden requerir otras estrategias.) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 355.298 Tm (Con los datos ficticios, A es la prioridad preliminar: coincide con la regi\363n de inter\351s y presenta menos sitios) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 340.988 Tm (alternativos reportados que B. B ofrece una predicci\363n de actividad mayor, pero exige revisar sus sitios) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 326.678 Tm (alternativos. C podr\355a ser \372til para una hip\363tesis reguladora; no se puede asumir que cause p\351rdida de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 312.368 Tm (funci\363n. Cero sitios reportados depende de la referencia y del alcance de la b\372squeda. Ning\372n candidato) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 298.058 Tm (garantiza el genotipo ni el fenotipo. Confirmar secuencia y funci\363n con controles y r\351plicas.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 266.7 Tm (R\372brica sobre 10) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 243.498 Tm (Identidad e hip\363tesis: 2 puntos. Referencia y configuraci\363n reproducible: 2. Interpretaci\363n y comparaci\363n: 3.) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 229.188 Tm (Validaci\363n, controles y r\351plicas: 2. Claridad y referencias: 1. Aceptar elecciones alternativas justificadas; no) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 214.878 Tm (elegir por ser el primer resultado del ranking.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 5432 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (4) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 780.09 Tm (Notas de las diapositivas) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 745.84 Tm (1. Editar ADN: del sitio elegido al cambio comprobado) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 722.638 Tm (Clase introductoria de 40 minutos para quinto semestre. Al finalizar, el estudiante debe explicar qu\351 se) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 708.328 Tm (edita, c\363mo se reconoce un sitio, por qu\351 la reparaci\363n influye en el resultado y qu\351 evidencia hace falta. El) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 694.018 Tm (trabajo web se presenta durante la clase y se desarrolla despu\351s; su duraci\363n no se suma al cronograma) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 679.708 Tm (de 40 minutos.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 660.87 Tm (Fuentes: [1\2266,8\22615] \267 Figuras originales; modelos simplificados.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 630.2 Tm (2. Cinco conceptos para entender la edici\363n) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 606.998 Tm (Genoma: conjunto de ADN; locus: ubicaci\363n; gen: regi\363n asociada a un producto funcional; alelo: una) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 592.688 Tm (versi\363n de una regi\363n; variante: diferencia de secuencia respecto a una referencia. No todas las variantes) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 578.378 Tm (son perjudiciales, ni todos los genes codifican prote\355nas. En el dibujo, los dos cromosomas representan un) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 564.068 Tm (ejemplo diploide, no una regla para todos los organismos.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 545.23 Tm (Fuentes: [1\2262]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 514.56 Tm (3. Clonar, expresar y editar responden preguntas distintas) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 491.358 Tm (Clonar conserva y copia una construcci\363n; expresar permite producir ARN y, cuando corresponde, prote\355na;) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 477.048 Tm (editar modifica una regi\363n del genoma. Un pl\341smido puede transportar componentes de edici\363n sin) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 462.738 Tm (convertirse en la modificaci\363n deseada. La ingenier\355a gen\351tica tambi\351n ha usado m\351todos dirigidos, como) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 448.428 Tm (recombinaci\363n hom\363loga: no se define toda la historia como inserci\363n al azar.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 429.59 Tm (Fuentes: [1\2263,6]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 398.92 Tm (4. \277Qu\351 significa cambiar una secuencia?) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 375.718 Tm (Las secuencias cortas son modelos did\341cticos sin locus real. Sustituir cambia una base, eliminar quita una) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 361.408 Tm (o m\341s, e insertar a\361ade ADN. La longitud del cambio puede variar. Una modificaci\363n puede afectar una) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 347.098 Tm (regi\363n codificante o una se\361al reguladora; su efecto no se deduce solo del tama\361o.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 328.26 Tm (Fuentes: [1\2262,6]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 297.59 Tm (5. Primero decide qu\351 quieres saber) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 274.388 Tm (Knockout significa p\351rdida de funci\363n, no necesariamente desaparici\363n completa del gen. Knock-in) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 260.078 Tm (incorpora una secuencia en un sitio; una correcci\363n busca reemplazar una variante concreta. Tambi\351n) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 245.768 Tm (pueden modificarse regiones reguladoras. El mismo corte no garantiza cada uno de estos resultados: el) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 231.458 Tm (objetivo debe traducirse en un cambio verificable.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 212.62 Tm (Fuentes: [1,5\2266]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 181.95 Tm (6. Tres plataformas para reconocer y cortar ADN) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 158.748 Tm (ZFN y TALEN reconocen ADN mediante prote\355nas dise\361adas; en sus dise\361os habituales se unen a) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 144.438 Tm (dominios de corte FokI que act\372an en pares. Cas9 se programa con un ARN gu\355a y requiere un motivo) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 130.128 Tm (PAM compatible. Cambiar la gu\355a suele facilitar la redirecci\363n de CRISPR, pero no establece que sea) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 115.818 Tm (siempre m\341s preciso o mejor en todo contexto.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 96.98 Tm (Fuentes: [3\2266]) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 5564 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (5) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 780.09 Tm (7. ZFN y TALEN: reconocimiento por prote\355nas) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 756.888 Tm (Las ZFN usan arreglos de dedos de zinc y las TALEN repeticiones TALE, inspiradas en efectores de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 742.578 Tm (Xanthomonas. En el esquema, dos prote\355nas se unen a regiones que flanquean un espacio y los dominios) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 728.268 Tm (FokI se aproximan para cortar. La figura ilustra arquitectura, sin longitudes, secuencias ni espaciados de un) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 713.958 Tm (dise\361o experimental.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 695.12 Tm (Fuentes: [3,5]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 664.45 Tm (8. CRISPR naci\363 como defensa de microorganismos) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 641.248 Tm (Algunos microorganismos guardan fragmentos de invasores y producen ARN que ayuda a reconocer) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 626.938 Tm (secuencias relacionadas. En el sistema tipo II que inspira Cas9, componentes de ARN dirigen la nucleasa.) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 612.628 Tm (El laboratorio adapt\363 ese reconocimiento para otros objetivos. No todas las bacterias tienen CRISPR ni) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 598.318 Tm (todos los sistemas CRISPR emplean Cas9.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 579.48 Tm (Fuentes: [2,4]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 548.81 Tm (9. Cas9 necesita una gu\355a y un ADN compatible) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 525.608 Tm (La prote\355na Cas9 realiza el corte; el ARN gu\355a aporta reconocimiento por complementariedad; el PAM es un) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 511.298 Tm (motivo del ADN reconocido por la prote\355na. El sgRNA de laboratorio combina funciones de crRNA y) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 496.988 Tm (tracrRNA. La regi\363n gu\355a no es toda la mol\351cula de ARN. En este ejemplo se usa SpCas9 convencional,) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 482.678 Tm (cuyo PAM habitual es NGG.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 463.84 Tm (Fuentes: [4,6]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 433.17 Tm (10. La gu\355a reconoce; el PAM permite el reconocimiento) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 409.968 Tm (El bloque de 20 bases representa el protospaciador y el ARN se aparea con la hebra complementaria. En) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 395.658 Tm (el esquema de SpCas9, NGG se muestra en la hebra no apareada con la gu\355a; N representa cualquier) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 381.348 Tm (base. El PAM pertenece al ADN y no se incluye en el segmento gu\355a de 20 nucle\363tidos. Diferentes) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 367.038 Tm (nucleasas o variantes tienen otros requisitos.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 348.2 Tm (Fuentes: [4,6,12\22613]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 317.53 Tm (11. El corte abre dos rutas de reparaci\363n) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 294.328 Tm (En la uni\363n de extremos no hom\363logos, NHEJ, los extremos pueden reunirse sin un molde hom\363logo; el) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 280.018 Tm (resultado puede conservar la secuencia o contener indels. Los indels pueden alterar funci\363n, pero no todo) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 265.708 Tm (indel genera knockout. En reparaci\363n dirigida por homolog\355a, HDR, una secuencia hom\363loga puede actuar) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 251.398 Tm (como molde para un cambio previsto. La elecci\363n de v\355a depende del tipo y estado celular; HDR no ocurre) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 237.088 Tm (autom\341ticamente al aportar un molde. Estas son dos rutas del modelo, no todas las posibilidades celulares.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 218.25 Tm (Fuentes: [1,5\2266]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 187.58 Tm (12. Una poblaci\363n tratada puede tener varios resultados) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 164.378 Tm (La figura muestra categor\355as hipot\351ticas, sin proporciones medidas: c\351lulas sin cambio, cambios distintos y) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 150.068 Tm (cambio buscado. En una c\351lula pueden existir varios alelos; una muestra mezclada no equivale a un clon) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 135.758 Tm (con genotipo uniforme. Tambi\351n pueden aparecer cambios grandes o complejos en el sitio elegido. Hay) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 121.448 Tm (que definir qu\351 se considera edici\363n correcta y con qu\351 ensayo se observa.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 102.61 Tm (Fuentes: [6\2267]) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 6306 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (6) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 780.09 Tm (13. Tambi\351n se puede editar sin buscar un corte doble) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 756.888 Tm (Los editores de bases convencionales combinan una Cas modificada y una actividad de modificaci\363n de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 742.578 Tm (bases; ejemplos cl\341sicos son C:G a T:A o A:T a G:C. Trabajan en una ventana y pueden modificar bases) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 728.268 Tm (vecinas. Prime editing combina una Cas9 nickasa con transcriptasa inversa y una pegRNA que incorpora) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 713.958 Tm (informaci\363n del cambio. Puede realizar sustituciones y peque\361as inserciones o deleciones. Ambos evitan) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 699.648 Tm (usar una rotura de doble hebra como paso intencional central, aunque no est\341n libres de productos no) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 685.338 Tm (deseados ni sirven para cualquier caso.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 666.5 Tm (Fuentes: [6,8\2269]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 635.83 Tm (14. \277C\363mo llega la herramienta a la c\351lula?) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 612.628 Tm (Los componentes pueden introducirse como ADN, ARN o complejos prote\355na-ARN, seg\372n el sistema. Un) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 598.318 Tm (vector de entrega no define por s\355 mismo el cambio final. No toda edici\363n consiste en insertar el gen de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 584.008 Tm (Cas9 en el genoma. Este es un esquema conceptual sin procedimientos, dosis o condiciones de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 569.698 Tm (laboratorio.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 550.86 Tm (Fuentes: [6]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 520.19 Tm (15. Dise\361ar incluye decidir c\363mo demostrar el cambio) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 496.988 Tm (Definir una hip\363tesis, el cambio de ADN esperado y la lectura funcional. La secuenciaci\363n del locus verifica) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 482.678 Tm (genotipo y las uniones pertinentes; el ensayo de ARN, prote\355na o fenotipo pregunta por funci\363n. Comparar) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 468.368 Tm (con controles adecuados y r\351plicas independientes. Una gu\355a no dirigida puede ayudar a distinguir efectos) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 454.058 Tm (del tratamiento, pero los controles concretos dependen del experimento. Resultados inesperados pueden) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 439.748 Tm (requerir an\341lisis m\341s amplios del sitio y de otros loci.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 420.91 Tm (Fuentes: [1,6\2267,12\22613]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 390.24 Tm (16. En investigaci\363n, editar sirve para poner a prueba una hip\363tesis) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 367.038 Tm (Ejemplo propuesto: si GL1 contribuye a formar tricomas, una p\351rdida de funci\363n podr\355a disminuirlos. El) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 352.728 Tm (gr\341fico y los valores son simulados, no resultados del locus ni de CHOPCHOP. Comparar control,) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 338.418 Tm (candidato con p\351rdida de funci\363n confirmada y rescate puede fortalecer la interpretaci\363n, con controles de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 324.108 Tm (fondo gen\351tico y r\351plicas. Un fenotipo por s\355 solo no confirma el cambio de ADN ni prueba ausencia de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 309.798 Tm (efectos adicionales.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 290.96 Tm (Fuentes: [1,5\2266,14] \267 Gr\341fico con datos simulados.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 260.29 Tm (17. Dos aplicaciones reales, dos mecanismos distintos) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 237.088 Tm (Exa-cel/CASGEVY es un ejemplo de edici\363n ex vivo: modifica un elemento regulador eritroide de BCL11A) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 222.778 Tm (para aumentar hemoglobina fetal; no consiste en corregir directamente la variante de HBB. La FDA lo) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 208.468 Tm (aprob\363 inicialmente en 2023. Musunuru y colegas describieron en 2025 una terapia personalizada de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 194.158 Tm (edici\363n de bases, entregada in vivo al h\355gado para un paciente con deficiencia de CPS1. Ese caso es) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 179.848 Tm (evidencia inicial en un paciente, no una terapia de eficacia universal ni una garant\355a de curaci\363n.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 161.01 Tm (Fuentes: [10\22611,15]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 130.34 Tm (18. Dirigir el sitio es una parte de la precisi\363n) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 107.138 Tm (On-target: el cambio en el sitio elegido puede ser distinto al esperado. Off-target: pueden existir) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 92.828 Tm (modificaciones fuera del sitio. La mezcla de resultados entre c\351lulas o alelos complica la lectura. La entrega) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 78.518 Tm (y el tipo celular tambi\351n limitan el resultado. Una predicci\363n computacional no sustituye la comprobaci\363n. El) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 64.208 Tm (contexto de uso, seguridad y efectos sobre personas o ambiente forman parte de la evaluaci\363n.) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 6512 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (7) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 792.61 Tm (Fuentes: [6\2267,9]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 761.94 Tm (19. Juego: elige una estrategia y explica por qu\351) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 738.738 Tm (A: estudiar p\351rdida de funci\363n de un gen, considerar nucleasa y reparaci\363n por uni\363n de extremos,) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 724.428 Tm (verificando qu\351 alelos se obtuvieron. B: sustituir una base compatible, considerar un editor de bases si) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 710.118 Tm (PAM, ventana y contexto permiten el cambio; prime editing puede ser alternativa. C: a\361adir una etiqueta,) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 695.808 Tm (considerar un dise\361o de inserci\363n, por ejemplo con molde y HDR si es apropiado. No tratar las respuestas) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 681.498 Tm (como \372nicas o garantizadas.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 662.66 Tm (Fuentes: S\355ntesis de [5\2266,8\2269] \267 Soluciones en la gu\355a.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 631.99 Tm (20. Herramientas web: del gen a una decisi\363n razonada) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 608.788 Tm (NCBI Gene aporta identidad y anotaci\363n; CHOPCHOP propone y ordena candidatos; CRISPOR permite) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 594.478 Tm (una revisi\363n opcional de candidatos y predicciones. Registrar especie, ensamblaje, modo y modelo de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 580.168 Tm (puntuaci\363n. Las puntuaciones de distintas herramientas no se comparan como si fueran la misma escala ni) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 565.858 Tm (una probabilidad de \351xito. La actividad es an\341lisis in silico, no ejecuci\363n de una edici\363n.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 547.02 Tm (Fuentes: [12\22614] \267 Enlaces e instrucciones en la ficha.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 516.35 Tm (21. Misi\363n GL1: relacionar ADN y tricomas) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 493.148 Tm (En NCBI, buscar Gene ID 822415, s\355mbolo MYB0 y alias GL1. Se trata de un gen asociado al desarrollo de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 478.838 Tm (tricomas. En CHOPCHOP, empezar con el identificador AT3G27920, Arabidopsis thaliana y modo Cas9) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 464.528 Tm (knockout; comprobar que el genoma seleccionado corresponde a los datos de entrada. Formular una) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 450.218 Tm (hip\363tesis y comparar tres candidatos. Si el identificador no se reconoce, documentar el problema y usar) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 435.908 Tm (coordenadas gen\363micas verificadas en el mismo ensamblaje o la modalidad sin servidor de la ficha.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 417.07 Tm (Fuentes: [12,14] \267 Hip\363tesis did\341ctica; no se ha ejecutado una edici\363n.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 386.4 Tm (22. El mayor puntaje no decide por s\355 solo) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 363.198 Tm (La tabla inventada usa una escala did\341ctica de actividad 0\226100 que no pretende reproducir la escala actual) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 348.888 Tm (de CHOPCHOP. A se encuentra en regi\363n codificante y no presenta sitios alternativos en la b\372squeda) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 334.578 Tm (hipot\351tica; B tiene mayor puntaje pero dos sitios alternativos cercanos; C queda fuera de regi\363n codificante) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 320.268 Tm (y no encaja con el objetivo de inactivaci\363n propuesto. A es la elecci\363n preliminar m\341s defendible con esa) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 305.958 Tm (informaci\363n. Cero sitios reportados no demuestra ausencia de off-targets y no se garantiza un knockout.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 287.12 Tm (Fuentes: Ejercicio original \267 No son resultados de CHOPCHOP ni gu\355as utilizables.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 256.45 Tm (23. Tu entrega: defender una elecci\363n con evidencia) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 233.248 Tm (Trabajo en parejas, con una estimaci\363n de 30\22645 minutos adicionales fuera de clase. Entregar informe de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 218.938 Tm (hasta dos p\341ginas, m\341s capturas y tabla de apoyo: hip\363tesis, registro del gen y ensamblaje, tres) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 204.628 Tm (candidatos, selecci\363n razonada y plan de verificaci\363n con controles. La ficha trae tabla editable, r\372brica) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 190.318 Tm (sobre diez y alternativa con datos simulados si el servidor falla. No se exige comprar reactivos ni ejecutar) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 176.008 Tm (una edici\363n.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 157.17 Tm (Fuentes: [12\22614] \267 R\372brica y alternativa sin servidor incluidas.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 126.5 Tm (24. Antes de salir, explica estas tres ideas) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 103.298 Tm (Preguntas de salida: \277qu\351 diferencia hay entre elegir el sitio y obtener la edici\363n correcta?, \277por qu\351 un) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 88.988 Tm (corte no garantiza knockout?, \277qu\351 evidencia pedir\355as despu\351s de una predicci\363n? El alumnado debe) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 74.678 Tm (conectar reconocimiento, reparaci\363n o modificaci\363n, y verificaci\363n. Las referencias se muestran al final; los) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 60.368 Tm (anexos no forman parte del tiempo de clase.) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Length 1252 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (8) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 792.61 Tm (Fuentes: S\355ntesis de [1\22615]) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 761.94 Tm (25. Referencias bibliogr\341ficas) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 738.738 Tm (Bibliograf\355a de consulta. Esquemas redibujados y datos did\341cticos identificados como simulados.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 719.9 Tm (Fuentes: Consulta: 20 de noviembre de 2026 \267 Enlaces completos en la gu\355a docente.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 689.23 Tm (26. Referencias bibliogr\341ficas) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 666.028 Tm (Bibliograf\355a de consulta. Esquemas redibujados y datos did\341cticos identificados como simulados.) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 647.19 Tm (Fuentes: Consulta: 20 de noviembre de 2026 \267 Enlaces completos en la gu\355a docente.) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 19 0 R >>
+endobj
+21 0 obj
+<< /Length 4346 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (9) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 780.09 Tm (Anexos de consulta) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 745.84 Tm (Anexo: elegir por el cambio que se necesita) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 722.638 Tm (Elegir una plataforma seg\372n cambio, sistema biol\363gico, entrega y verificaci\363n; no existe un mejor m\351todo) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 708.328 Tm (para todos los casos.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 676.97 Tm (Anexo: CRISPR tambi\351n puede regular la expresi\363n) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 653.768 Tm (dCas9 catal\355ticamente inactiva puede reclutar reguladores. CRISPRi y CRISPRa modulan expresi\363n sin) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 639.458 Tm (requerir modificaci\363n de secuencia.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 608.1 Tm (Anexo: c\351lulas som\341ticas y cambios heredables) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 584.898 Tm (Los cambios som\341ticos se transmiten a descendencia celular. Un cambio en la l\355nea germinal puede pasar) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 570.588 Tm (a la descendencia del organismo. Evaluar contexto, consentimiento y evidencia.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 539.23 Tm (Anexo: qu\351 aporta cada formato de entrega) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 516.028 Tm (ADN puede codificar componentes, ARN aporta instrucciones y un complejo RNP entrega prote\355na y gu\355a.) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 501.718 Tm (El formato depende del sistema.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 470.36 Tm (Anexo: respuestas a los juegos) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 447.158 Tm (Con los datos ficticios, A es la prioridad preliminar: coincide con la regi\363n de inter\351s y presenta menos sitios) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 432.848 Tm (alternativos reportados que B. B ofrece una predicci\363n de actividad mayor, pero exige revisar sus sitios) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 418.538 Tm (alternativos. C podr\355a ser \372til para una hip\363tesis reguladora; no se puede asumir que cause p\351rdida de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 404.228 Tm (funci\363n. Cero sitios reportados depende de la referencia y del alcance de la b\372squeda. Ning\372n candidato) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 389.918 Tm (garantiza el genotipo ni el fenotipo. Confirmar secuencia y funci\363n con controles y r\351plicas.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 358.56 Tm (Precisi\363n conceptual) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 335.358 Tm (NHEJ puede restaurar o alterar la secuencia y un indel no garantiza p\351rdida de funci\363n. HDR no ocurre) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 321.048 Tm (autom\341ticamente al a\361adir un molde. El PAM es ADN, no parte del segmento gu\355a. Edici\363n de bases y) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 306.738 Tm (prime editing evitan usar una rotura doble como paso intencional central, aunque pueden generar cambios) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 292.428 Tm (no deseados. Una puntuaci\363n no equivale a un porcentaje observado.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 261.07 Tm (Ejemplos y datos) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 237.868 Tm (El gr\341fico de tricomas y la tabla A\226C son inventados para ense\361ar interpretaci\363n. No son resultados de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 223.558 Tm (GL1, de CHOPCHOP ni de un experimento. El protospaciador de 20 bases es un modelo sin locus) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 209.248 Tm (asignado. Las anotaciones de GL1 permiten formular una hip\363tesis de aprendizaje.) Tj ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 21 0 R >>
+endobj
+23 0 obj
+<< /Length 5509 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (10) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 780.09 Tm (Bibliograf\355a enlazada) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 756.888 Tm ([1] Alberts, B. et al. \(2022\). Molecular Biology of the Cell. 7.\252 ed. W. W. Norton & Company.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 738.05 Tm (Consultar fuente 1) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 718.428 Tm ([2] MedlinePlus Genetics \(2022\). \277Qu\351 son la edici\363n del genoma y CRISPR-Cas9? National Library of) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 704.118 Tm (Medicine. Actualizaci\363n: 13-06-2022.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 685.28 Tm (Consultar fuente 2) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 665.658 Tm ([3] Jiang, S. y Shen, Q. W. \(2019\). Principles of gene editing techniques and applications in animal) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 651.348 Tm (husbandry. 3 Biotech, 9, 28.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 632.51 Tm (Consultar fuente 3) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 612.888 Tm ([4] Jinek, M. et al. \(2012\). A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 598.578 Tm (immunity. Science, 337, 816\226821.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 579.74 Tm (Consultar fuente 4) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 560.118 Tm ([5] Gaj, T., Gersbach, C. A. y Barbas, C. F. III \(2013\). ZFN, TALEN, and CRISPR/Cas-based methods for) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 545.808 Tm (genome engineering. Trends in Biotechnology, 31, 397\226405.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 526.97 Tm (Consultar fuente 5) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 507.348 Tm ([6] Anzalone, A. V., Koblan, L. W. y Liu, D. R. \(2020\). Genome editing with CRISPR\226Cas nucleases, base) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 493.038 Tm (editors, transposases and prime editors. Nature Biotechnology, 38, 824\226844.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 474.2 Tm (Consultar fuente 6) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 454.578 Tm ([7] Kosicki, M., Tomberg, K. y Bradley, A. \(2018\). Repair of double-strand breaks induced by CRISPR\226Cas9) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 440.268 Tm (leads to large deletions and complex rearrangements. Nature Biotechnology, 36, 765\226771.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 421.43 Tm (Consultar fuente 7) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 401.808 Tm ([8] Anzalone, A. V. et al. \(2019\). Search-and-replace genome editing without double-strand breaks or donor) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 387.498 Tm (DNA. Nature, 576, 149\226157.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 368.66 Tm (Consultar fuente 8) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 349.038 Tm ([9] Mawson, S. J. et al. \(2026\). Precision genome editing with DNA base editors. Nature Reviews Methods) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 334.728 Tm (Primers, 6, 23.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 315.89 Tm (Consultar fuente 9) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 296.268 Tm ([10] Frangoul, H. et al. \(2024\). Exagamglogene Autotemcel for Severe Sickle Cell Disease. New England) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 281.958 Tm (Journal of Medicine, 390, 1649\2261662.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 263.12 Tm (Consultar fuente 10) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 243.498 Tm ([11] Musunuru, K. et al. \(2025\). Patient-Specific In Vivo Gene Editing to Treat a Rare Genetic Disease. New) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 229.188 Tm (England Journal of Medicine, 392, 2235\2262243.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 210.35 Tm (Consultar fuente 11) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 190.728 Tm ([12] Labun, K. et al. \(2019\). CHOPCHOP v3: expanding the CRISPR web toolbox beyond genome editing.) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 176.418 Tm (Nucleic Acids Research, 47, W171\226W174.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 157.58 Tm (Consultar fuente 12) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 137.958 Tm ([13] Concordet, J.-P. y Haeussler, M. \(2018\). CRISPOR: intuitive guide selection for CRISPR/Cas9 genome) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 123.648 Tm (editing experiments and screens. Nucleic Acids Research, 46, W242\226W245.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 104.81 Tm (Consultar fuente 13) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 85.188 Tm ([14] NCBI Gene \(registro consultado en 2026\). MYB0 / GL1, Arabidopsis thaliana. Gene ID 822415; locus) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 70.878 Tm (AT3G27920.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 52.04 Tm (Consultar fuente 14) Tj ET
+endstream
+endobj
+24 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 734.63 117.539 746.33] /Border [0 0 0] /A << /S /URI /URI (https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell) >> >>
+endobj
+25 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 681.86 117.539 693.56] /Border [0 0 0] /A << /S /URI /URI (https://medlineplus.gov/spanish/genetica/entender/investigaciongenomica/ediciondelgenoma/) >> >>
+endobj
+26 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 629.09 117.539 640.79] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1007/s13205-018-1563-x) >> >>
+endobj
+27 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 576.32 117.539 588.02] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1126/science.1225829) >> >>
+endobj
+28 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 523.55 117.539 535.25] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1016/j.tibtech.2013.04.004) >> >>
+endobj
+29 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 470.78 117.539 482.48] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1038/s41587-020-0561-9) >> >>
+endobj
+30 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 418.01 117.539 429.71] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1038/nbt.4192) >> >>
+endobj
+31 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 365.24 117.539 376.94] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1038/s41586-019-1711-4) >> >>
+endobj
+32 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 312.47 117.539 324.17] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1038/s43586-026-00478-3) >> >>
+endobj
+33 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 259.7 122.543 271.4] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1056/NEJMoa2309676) >> >>
+endobj
+34 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 206.93 122.543 218.63] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1056/NEJMoa2504747) >> >>
+endobj
+35 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 154.16 122.543 165.86] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1093/nar/gkz365) >> >>
+endobj
+36 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 101.39 122.543 113.09] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1093/nar/gky354) >> >>
+endobj
+37 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 48.62 122.543 60.32] /Border [0 0 0] /A << /S /URI /URI (https://www.ncbi.nlm.nih.gov/gene/822415) >> >>
+endobj
+38 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 23 0 R /Annots [24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R] >>
+endobj
+39 0 obj
+<< /Length 1545 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (11) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 791.138 Tm ([15] U. S. Food and Drug Administration \(2023\). Summary Basis for Regulatory Action \226 CASGEVY. 8 de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 776.828 Tm (diciembre de 2023.) Tj ET
+BT /F1 9 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 757.99 Tm (Consultar fuente 15) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 727.32 Tm (Herramientas y documentaci\363n) Tj ET
+BT /F1 10.6 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 704.118 Tm (NCBI Gene \267 GL1 / MYB0) Tj ET
+BT /F1 10.6 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 683.808 Tm (CHOPCHOP) Tj ET
+BT /F1 10.6 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 663.498 Tm (Instrucciones de CHOPCHOP) Tj ET
+BT /F1 10.6 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 643.188 Tm (CRISPOR \267 direcci\363n actual) Tj ET
+BT /F1 10.6 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 622.878 Tm (Manual de CRISPOR) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 604.04 Tm (Consulta: 20 de noviembre de 2026. El libro se incluye como texto de consulta. Los art\355culos, registros y p\341ginas de) Tj ET
+BT /F1 9 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 591.89 Tm (herramientas se distinguen por su funci\363n. No se redistribuyen documentos fuente.) Tj ET
+endstream
+endobj
+40 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 754.57 122.543 766.27] /Border [0 0 0] /A << /S /URI /URI (https://www.fda.gov/media/175179/download) >> >>
+endobj
+41 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 700.09 164.776 713.87] /Border [0 0 0] /A << /S /URI /URI (https://www.ncbi.nlm.nih.gov/gene/822415) >> >>
+endobj
+42 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 679.78 105.247 693.56] /Border [0 0 0] /A << /S /URI /URI (https://chopchop.cbu.uib.no/) >> >>
+endobj
+43 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 659.47 185.372 673.25] /Border [0 0 0] /A << /S /URI /URI (https://chopchop.cbu.uib.no/instructions) >> >>
+endobj
+44 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 639.16 174.772 652.94] /Border [0 0 0] /A << /S /URI /URI (https://crispor.org/) >> >>
+endobj
+45 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 618.85 144.732 632.63] /Border [0 0 0] /A << /S /URI /URI (https://github.com/maximilianh/crisporWebsite/blob/master/manual/manual.md) >> >>
+endobj
+46 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 39 0 R /Annots [40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R] >>
+endobj
+xref
+0 47
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000185 00000 n 
+0000000282 00000 n 
+0000000384 00000 n 
+0000011924 00000 n 
+0000012067 00000 n 
+0000016430 00000 n 
+0000016573 00000 n 
+0000021276 00000 n 
+0000021420 00000 n 
+0000026905 00000 n 
+0000027050 00000 n 
+0000032667 00000 n 
+0000032812 00000 n 
+0000039171 00000 n 
+0000039316 00000 n 
+0000045881 00000 n 
+0000046026 00000 n 
+0000047331 00000 n 
+0000047476 00000 n 
+0000051875 00000 n 
+0000052020 00000 n 
+0000057582 00000 n 
+0000057778 00000 n 
+0000057991 00000 n 
+0000058156 00000 n 
+0000058319 00000 n 
+0000058488 00000 n 
+0000058653 00000 n 
+0000058809 00000 n 
+0000058974 00000 n 
+0000059140 00000 n 
+0000059299 00000 n 
+0000059460 00000 n 
+0000059618 00000 n 
+0000059776 00000 n 
+0000059938 00000 n 
+0000060191 00000 n 
+0000061789 00000 n 
+0000061954 00000 n 
+0000062118 00000 n 
+0000062270 00000 n 
+0000062434 00000 n 
+0000062578 00000 n 
+0000062776 00000 n 
+trailer
+<< /Size 47 /Root 1 0 R >>
+startxref
+62973
+%%EOF

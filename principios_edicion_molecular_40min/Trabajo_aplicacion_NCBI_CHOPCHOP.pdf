@@ -1,0 +1,282 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 3642 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (1) Tj ET
+BT /F2 23 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 779.73 Tm (Misi\363n GL1: justificar un dise\361o de edici\363n) Tj ET
+BT /F2 23 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 748.68 Tm (gen\351tica) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 704.99 Tm (Trabajo de aplicaci\363n con NCBI y CHOPCHOP) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 681.788 Tm (En parejas \267 informe de hasta 2 p\341ginas, m\341s tabla y capturas \267 30\22645 minutos fuera de la clase.) Tj ET
+BT /F2 11.5 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 660.65 Tm (\277C\363mo plantear\355as comprobar si la p\351rdida de funci\363n de GL1 afecta la formaci\363n de tricomas) Tj ET
+BT /F2 11.5 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 645.125 Tm (en las hojas de Arabidopsis thaliana?) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 613.38 Tm (1. Del gen a una pregunta) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 579.13 Tm (Objetivo) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 555.928 Tm (Relacionar una funci\363n biol\363gica con una modificaci\363n del ADN, comparar tres candidatos de ARN gu\355a y) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 541.618 Tm (explicar c\363mo se verificar\355a el resultado. La actividad produce una propuesta in silico; no un resultado) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 527.308 Tm (experimental.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 495.95 Tm (Herramientas) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 472.748 Tm (NCBI Gene: https://www.ncbi.nlm.nih.gov/gene/822415) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 458.438 Tm (CHOPCHOP: https://chopchop.cbu.uib.no/) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 444.128 Tm (Documentaci\363n: https://chopchop.cbu.uib.no/instructions) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 429.818 Tm (Revisi\363n opcional: https://crispor.org/) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 398.46 Tm (Busca la identidad) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 375.258 Tm (En NCBI, confirma especie, s\355mbolo principal MYB0, alias GL1, identificador 822415 y locus AT3G27920.) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 360.948 Tm (Lee la anotaci\363n relacionada con tricomas. Registra el ensamblaje y la versi\363n de secuencia si los utilizas.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 329.59 Tm (Formula la hip\363tesis) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 306.388 Tm (Escribe una predicci\363n con esta estructura: si disminuye o se pierde la funci\363n de GL1, entonces) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 292.078 Tm (esperamos observar... porque... A\361ade qu\351 medir\355as y cu\341l ser\355a tu comparaci\363n.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 260.72 Tm (Distingue el objetivo) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 237.518 Tm (Explica por qu\351 se propone una modificaci\363n de la regi\363n codificante para un posible knockout. Diferencia) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 223.208 Tm (p\351rdida de funci\363n de eliminaci\363n completa del gen; un corte o un indel no confirma por s\355 solo un) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 208.898 Tm (knockout.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 3341 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (2) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 780.09 Tm (2. Explorar candidatos en CHOPCHOP) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 745.84 Tm (Configura la b\372squeda) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 722.638 Tm (En Target, prueba AT3G27920. Selecciona Arabidopsis thaliana, Cas9 convencional y la aplicaci\363n) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 708.328 Tm (knockout. Registra el ensamblaje ofrecido por el programa y comprueba su correspondencia con tus datos.) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 694.018 Tm (Revisa el PAM NGG del ejemplo. Los nombres de las opciones pueden cambiar.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 662.66 Tm (Evita mezclar referencias) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 639.458 Tm (Si el identificador no se reconoce, usa coordenadas gen\363micas verificadas del mismo ensamblaje,) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 625.148 Tm (indicando cromosoma, intervalo y versi\363n. Una secuencia de ADNc que une exones puede crear una uni\363n) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 610.838 Tm (que no existe en el ADN gen\363mico. El locus se debe interpretar en la referencia realmente consultada.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 579.48 Tm (Selecciona tres candidatos) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 556.278 Tm (Consulta el mapa del gen y la tabla de resultados. Elige tres candidatos para compararlos, no solo el) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 541.968 Tm (primero de la lista. Abre su detalle y registra regi\363n, posici\363n, hebra, PAM, puntuaci\363n y sitios alternativos) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 527.658 Tm (predichos. Anota el nombre del modelo, su escala y el alcance de la b\372squeda de off-targets.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 496.3 Tm (Lee la puntuaci\363n) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 473.098 Tm (Una puntuaci\363n de actividad no equivale al porcentaje de c\351lulas que se editar\341n. La especificidad es otra) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 458.788 Tm (dimensi\363n. No conviertas un cero debido a incompatibilidad del modelo en evidencia de inactividad.) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 444.478 Tm (Contrasta el significado de columnas y colores en las instrucciones del servidor.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 413.12 Tm (Guarda evidencia) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 389.918 Tm (Conserva una captura de la configuraci\363n y otra de la comparaci\363n de candidatos, o exporta la tabla si est\341) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 375.608 Tm (disponible. Incluye fecha, URL y par\341metros relevantes para que otra persona pueda entender c\363mo) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 361.298 Tm (obtuviste la informaci\363n.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 7779 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (3) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 780.09 Tm (3. Comparar, decidir y comprobar) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 745.84 Tm (Completa la tabla) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 722.638 Tm (Para cada candidato, registra: ID; segmento gu\355a 5'->3' y PAM por separado; cromosoma/posici\363n/hebra;) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 708.328 Tm (regi\363n codificante o reguladora; modelo y puntuaci\363n de actividad; sitios alternativos reportados y criterio) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 694.018 Tm (de b\372squeda. Si un campo no est\341 disponible, ind\355calo y explica qu\351 limita.) Tj ET
+q 0.8627 0.9098 0.9373 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 658.66 153 24.8 re B Q
+BT /F2 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 669.18 Tm (Campo) Tj ET
+q 0.8627 0.9098 0.9373 rg 0.7961 0.8471 0.8784 RG 0.4 w 197 658.66 118 24.8 re B Q
+BT /F2 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 203 669.18 Tm (A) Tj ET
+q 0.8627 0.9098 0.9373 rg 0.7961 0.8471 0.8784 RG 0.4 w 315 658.66 118 24.8 re B Q
+BT /F2 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 321 669.18 Tm (B) Tj ET
+q 0.8627 0.9098 0.9373 rg 0.7961 0.8471 0.8784 RG 0.4 w 433 658.66 118 24.8 re B Q
+BT /F2 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 439 669.18 Tm (C) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 633.86 153 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 644.38 Tm (ID de candidato) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 197 633.86 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 203 644.38 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 315 633.86 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 321 644.38 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 433 633.86 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 439 644.38 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 609.06 153 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 619.58 Tm (Gu\355a 5'->3' / PAM separado) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 197 609.06 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 203 619.58 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 315 609.06 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 321 619.58 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 433 609.06 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 439 619.58 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 584.26 153 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 594.78 Tm (Cromosoma, posici\363n, hebra) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 197 584.26 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 203 594.78 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 315 584.26 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 321 594.78 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 433 584.26 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 439 594.78 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 559.46 153 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 569.98 Tm (Regi\363n) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 197 559.46 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 203 569.98 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 315 559.46 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 321 569.98 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 433 559.46 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 439 569.98 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 534.66 153 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 545.18 Tm (Modelo y puntuaci\363n) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 197 534.66 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 203 545.18 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 315 534.66 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 321 545.18 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 433 534.66 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 439 545.18 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 509.86 153 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 520.38 Tm (Sitios alternativos y criterio) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 197 509.86 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 203 520.38 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 315 509.86 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 321 520.38 Tm (____________) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 433 509.86 118 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 439 520.38 Tm (____________) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 481.06 Tm (Defiende tu elecci\363n) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 457.858 Tm (Elige un candidato y justifica la decisi\363n con al menos tres criterios. Explica por qu\351 descartas) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 443.548 Tm (provisionalmente los otros dos. Considera la funci\363n de la regi\363n, las predicciones de sitios alternativos y la) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 429.238 Tm (compatibilidad de la herramienta. Evita afirmar que un resultado est\341 garantizado.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 397.88 Tm (Dise\361a la comprobaci\363n) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 374.678 Tm (Prop\363n qu\351 informaci\363n aportar\355a la secuenciaci\363n del locus y qu\351 aportar\355a un conteo de tricomas. Incluye) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 360.368 Tm (un control de referencia y controles del tratamiento adecuados al planteamiento, as\355 como r\351plicas) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 346.058 Tm (independientes. Explica qu\351 har\355as si aparece el fenotipo esperado pero no se confirma el genotipo.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 314.7 Tm (Pregunta cr\355tica) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 291.498 Tm (\277Por qu\351 cero sitios alternativos reportados no demuestra ausencia de off-targets? Relaciona tu respuesta) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 277.188 Tm (con el ensamblaje, los par\341metros de b\372squeda y el car\341cter predictivo del programa.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 245.83 Tm (CRISPOR opcional) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 222.628 Tm (Para contrastar un candidato, usa el mismo ensamblaje y un fragmento de ADN gen\363mico que lo contenga,) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 208.318 Tm (respetando el l\355mite de entrada indicado en la web. Registra nucleasa/PAM y modelo. No compares) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 194.008 Tm (n\372meros de distintas escalas como si fueran equivalentes.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 2719 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (4) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 780.09 Tm (4. Entrega y evaluaci\363n) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 745.84 Tm (Informe) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 722.638 Tm (Hasta dos p\341ginas con pregunta e hip\363tesis, fuente y referencia gen\363mica, elecci\363n argumentada y plan de) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 708.328 Tm (verificaci\363n. Adjunta la tabla de tres candidatos y las capturas. Cita el registro del gen, la herramienta y al) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 694.018 Tm (menos una fuente de mecanismo de la clase.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 662.66 Tm (R\372brica sobre 10) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 639.458 Tm (Identidad del gen y coherencia de la hip\363tesis: 2 puntos.) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 625.148 Tm (Registro reproducible de referencia y configuraci\363n: 2 puntos.) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 610.838 Tm (Interpretaci\363n y comparaci\363n razonada de candidatos: 3 puntos.) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 596.528 Tm (Plan de verificaci\363n, controles y r\351plicas: 2 puntos.) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 582.218 Tm (Claridad, figuras y referencias: 1 punto.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 550.86 Tm (Si falla el servidor) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 527.658 Tm (Documenta el problema y utiliza la modalidad sin servidor de la siguiente p\341gina. No inventes secuencias ni) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 513.348 Tm (par\341metros supuestamente obtenidos en l\355nea. Identifica tu entrega como interpretaci\363n de datos) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 499.038 Tm (simulados; sustituye las capturas de resultados por la evidencia del fallo y las respuestas del ejercicio.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 467.68 Tm (Qu\351 se eval\372a) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 444.478 Tm (Comprender la relaci\363n entre el gen, la modificaci\363n propuesta y la evidencia necesaria. Una gu\355a) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 430.168 Tm (priorizada por software es un candidato para evaluar, no una validaci\363n experimental.) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 4614 >>
+stream
+q 1.0000 1.0000 1.0000 rg  0 0 595.276 841.89 re f Q
+q 0.0000 0.5412 0.5412 rg  0 831.89 595.276 10 re f Q
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 44 19.53 Tm (Principios de edici\363n molecular \267 Material docente \267 2026) Tj ET
+BT /F1 8 Tf 0.3765 0.4667 0.5255 rg 1 0 0 1 523 19.53 Tm (5) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 780.09 Tm (5. Modalidad sin servidor) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 745.84 Tm (Datos simulados) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 722.638 Tm (Los candidatos A, B y C son ficticios. La escala de actividad 0\226100 fue creada para este ejercicio y no) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 708.328 Tm (reproduce la escala de CHOPCHOP. No se proporcionan gu\355as experimentales ni coordenadas reales.) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 676.97 Tm (Contexto) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 653.768 Tm (El objetivo did\341ctico es buscar una posible p\351rdida de funci\363n mediante una modificaci\363n de la regi\363n) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 639.458 Tm (codificante. En la b\372squeda hipot\351tica se cuentan sitios alternativos con hasta dos desajustes, fuera del) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 625.148 Tm (sitio deseado.) Tj ET
+q 0.8627 0.9098 0.9373 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 589.79 70 24.8 re B Q
+BT /F2 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 600.31 Tm (Candidato) Tj ET
+q 0.8627 0.9098 0.9373 rg 0.7961 0.8471 0.8784 RG 0.4 w 114 589.79 125 24.8 re B Q
+BT /F2 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 120 600.31 Tm (Regi\363n) Tj ET
+q 0.8627 0.9098 0.9373 rg 0.7961 0.8471 0.8784 RG 0.4 w 239 589.79 142 24.8 re B Q
+BT /F2 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 245 600.31 Tm (Actividad ficticia 0\226100) Tj ET
+q 0.8627 0.9098 0.9373 rg 0.7961 0.8471 0.8784 RG 0.4 w 381 589.79 170 24.8 re B Q
+BT /F2 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 387 600.31 Tm (Sitios alternativos hipot\351ticos) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 564.99 70 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 575.51 Tm (A) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 114 564.99 125 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 120 575.51 Tm (Codificante) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 239 564.99 142 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 245 575.51 Tm (72) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 381 564.99 170 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 387 575.51 Tm (0) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 540.19 70 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 550.71 Tm (B) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 114 540.19 125 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 120 550.71 Tm (Codificante) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 239 540.19 142 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 245 550.71 Tm (91) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 381 540.19 170 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 387 550.71 Tm (2) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 44 515.39 70 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 50 525.91 Tm (C) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 114 515.39 125 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 120 525.91 Tm (Promotora) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 239 515.39 142 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 245 525.91 Tm (84) Tj ET
+q 1.0000 1.0000 1.0000 rg 0.7961 0.8471 0.8784 RG 0.4 w 381 515.39 170 24.8 re B Q
+BT /F1 9 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 387 525.91 Tm (0) Tj ET
+BT /F2 15 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 44 486.59 Tm (Preguntas) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 463.388 Tm (1. \277Cu\341l priorizar\355as y con qu\351 condiciones?) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 449.078 Tm (2. \277Por qu\351 no basta elegir el mayor puntaje?) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 434.768 Tm (3. \277Por qu\351 C podr\355a servir para otra pregunta, pero encaja menos con este objetivo?) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 420.458 Tm (4. \277Qu\351 informaci\363n falta para evaluar off-targets?) Tj ET
+BT /F1 10.6 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 44 406.148 Tm (5. Prop\363n controles y dos evidencias complementarias del resultado.) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000142 00000 n 
+0000000239 00000 n 
+0000000341 00000 n 
+0000004035 00000 n 
+0000004178 00000 n 
+0000007571 00000 n 
+0000007714 00000 n 
+0000015545 00000 n 
+0000015689 00000 n 
+0000018461 00000 n 
+0000018606 00000 n 
+0000023273 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+23418
+%%EOF
