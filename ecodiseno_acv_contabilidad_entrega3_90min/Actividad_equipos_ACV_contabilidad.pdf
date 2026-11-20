@@ -1,0 +1,87 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [5 0 R 7 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3307 >>
+stream
+BT /F2 20 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 787 Tm (Actividad  -  ¿Recomendarías la guía de llenado?) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 725 Tm (Tiempo total: 20 minutos. Equipos del proyecto. Utilicen calculadora u hoja de) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 711.8 Tm (cálculo. Caso simulado; no son datos de una planta real.) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 681 Tm (Función: envasar 1 000 kg de salsa conforme por lote, con iguales requisitos de) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 667.8 Tm (calidad y seguridad. Sistema: operaciones de envasado. Sin acumulación relevante) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 654.6 Tm (ni recuperación de pérdidas. Propuesta: guía de alineación de boquilla y ajuste) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 641.4 Tm (de dosificación.) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 607 Tm (Datos por lote \(actual -> propuesta\): salsa comprada 1 078 -> 1 050 kg; producto) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 593.8 Tm (útil 1 000 -> 1 000 kg; pérdidas no recuperadas 78 -> 50 kg; electricidad 120 ->) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 580.6 Tm (126 kWh; agua 2,0 -> 2,2 m³.) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 548 Tm (Costos unitarios constantes: salsa comprada USD 1,50/kg \(sin electricidad, agua) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 534.8 Tm (ni gestión\); electricidad USD 0,15/kWh; agua USD 1,00/m³; gestión de pérdidas USD) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 521.6 Tm (0,10/kg. No se incluye un cargo separado de tratamiento de aguas.) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 489 Tm (La propuesta añade USD 1/lote de mantenimiento. Inversión inicial USD 600. Se) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 475.8 Tm (prevén 200 lotes comparables al año. Factor ficticio de electricidad: 0,20 kg) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 462.6 Tm (CO2e/kWh. Estos supuestos no sirven para reportes reales.) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 430 Tm (1. Definan la referencia y los límites. Dibujen el cambio técnico de la propuesta) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 416.8 Tm (\(3 minutos\).) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 386 Tm (2. Verifiquen los balances. Calculen cambios porcentuales en pérdidas,) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 372.8 Tm (electricidad y agua, y GEI asociados solo a electricidad \(5 minutos\).) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 342 Tm (3. Comparen costos por lote. Calculen ahorro neto anual y recuperación simple \(5) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 328.8 Tm (minutos\).) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 298 Tm (4. Redacten una recomendación condicionada. Identifiquen un efecto fuera del) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 284.8 Tm (límite, una incertidumbre y cómo probar calidad y beneficio \(5 minutos\).) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 254 Tm (Resultado del equipo: boceto + tabla comparativa + cálculos + recomendación +) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 240.8 Tm (plan breve de prueba. Actividad formativa; no añade una entrega evaluada.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1937 >>
+stream
+BT /F2 20 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 787 Tm (Plantilla de respuesta del equipo) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 725 Tm (Equipo y objeto: _____________________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 696 Tm (Referencia funcional y límite: __________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 667 Tm (Boceto del cambio \(usar el reverso o una hoja adicional\).) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 638 Tm (Indicador | Actual | Propuesta | Cambio | Fuente o supuesto) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 609 Tm (Pérdidas: __________________________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 580 Tm (Electricidad: ________________________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 551 Tm (Agua: ______________________________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 522 Tm (GEI de electricidad: __________________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 493 Tm (Costos por lote: _____________________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 464 Tm (Ahorro neto anual y recuperación simple: _________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 435 Tm (Beneficio principal y efecto no deseado: __________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 406 Tm (Recomendación y condición para aplicarla: _________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 377 Tm (Qué medir, cómo comparar y qué criterio usar para validar: ___________________) Tj ET
+BT /F1 12 Tf 0.082 0.208 0.263 rg 1 0 0 1 40 348 Tm (Conexión con su proyecto: ¿qué dato o cálculo deberían preparar para entrega 3?) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000462 00000 n 
+0000003820 00000 n 
+0000003956 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+5944
+%%EOF
