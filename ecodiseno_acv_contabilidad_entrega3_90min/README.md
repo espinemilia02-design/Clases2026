@@ -1,5 +1,8 @@
 # ACV, contabilidad ambiental y entrega 3 · 90 minutos
 
+**Presentación reconstruida el 20 de noviembre de 2026.** Si descargaste una versión anterior que PowerPoint no pudo leer, utiliza [la versión CORREGIDA](ACV_contabilidad_entrega3_90min_CORREGIDA.pptx) o [el paquete actualizado](Material_ACV_contabilidad_entrega3_CORREGIDO.zip). Conserva 25 diapositivas y sus notas. La apertura en PowerPoint aún no ha podido comprobarse desde este entorno.
+
+
 Propuesta de clase con 25 diapositivas (24 de clase y una de referencias), diagramas, gráficos comparativos, guion docente y actividad formativa. Sesión continua sin descanso.
 
 | Minutos | Bloque |
