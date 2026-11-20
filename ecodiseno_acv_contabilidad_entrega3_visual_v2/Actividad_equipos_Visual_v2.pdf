@@ -1,0 +1,83 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [5 0 R 7 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3039 >>
+stream
+BT /F2 22 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 788 Tm (Actividad: decidir sobre el rediseño de llenado) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 720 Tm (20 minutos en equipos. Usar calculadora u hoja de cálculo. Todos los datos del caso son) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 706.56 Tm (ficticios.) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 678.12 Tm (Servicio: envasar 1 000 kg de salsa conforme por lote, con iguales requisitos de calidad y) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 664.68 Tm (seguridad. Sistema: operaciones de envasado. No hay acumulación relevante ni recuperación de) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 651.24 Tm (pérdidas.) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 622.8 Tm (Propuesta conceptual: guía de alineación de la boquilla y ajuste de dosificación. Los) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 609.3599999999999 Tm (resultados de la propuesta son estimaciones por validar.) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 580.9200000000001 Tm (Datos por lote \(actual  ->  propuesta\): salsa comprada 1 078  ->  1 050 kg; producto conforme 1) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 567.48 Tm (000  ->  1 000 kg; pérdidas 78  ->  50 kg; electricidad 120  ->  126 kWh; agua 2,0  ->  2,2 m³.) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 539.04 Tm (Precios constantes: salsa de compra USD 1,50/kg; electricidad USD 0,15/kWh; agua USD) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 525.5999999999999 Tm (1,00/m³; gestión de pérdidas USD 0,10/kg. Mantenimiento adicional de la propuesta: USD) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 512.16 Tm (1/lote. Inversión inicial: USD 600. Producción prevista: 200 lotes comparables/año.) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 483.72 Tm (La compra de salsa excluye electricidad, agua y gestión. El precio del agua no añade una tarifa) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 470.28000000000003 Tm (separada de tratamiento. Factor ficticio de electricidad: 0,20 kg CO2e/kWh. No usar para) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 456.84000000000003 Tm (una huella real.) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 428.40000000000003 Tm (1. Definir función y límites. Dibujar el cambio técnico \(3 min\).) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 399.96000000000004 Tm (2. Verificar balances. Calcular cambios en pérdidas, electricidad y agua, y GEI asociados solo a) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 386.52000000000004 Tm (electricidad \(5 min\).) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 358.08000000000004 Tm (3. Comparar costos por lote, ahorro anual y recuperación simple \(5 min\).) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 329.64000000000004 Tm (4. Recomendar con condiciones. Señalar una incertidumbre, un efecto fuera del límite y una) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 316.20000000000005 Tm (prueba de calidad y beneficio \(5 min\).) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1949 >>
+stream
+BT /F2 22 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 788 Tm (Respuesta del equipo) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 720 Tm (Equipo y objeto: __________________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 691.56 Tm (Referencia funcional y límite: ________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 663.12 Tm (Boceto del cambio: utilizar el reverso o una hoja adicional.) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 634.6800000000001 Tm (Indicador | Actual | Propuesta | Cambio | Fuente o supuesto) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 606.24 Tm (Pérdidas: ________________________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 577.8 Tm (Electricidad: _____________________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 549.36 Tm (Agua: __________________________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 520.9200000000001 Tm (GEI de electricidad: _________________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 492.48 Tm (Costo por lote: ___________________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 464.04 Tm (Ahorro anual y recuperación: _________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 435.6 Tm (Beneficio y contrapartida: ____________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 407.16 Tm (Recomendación condicionada: ________________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 378.72 Tm (Qué medir y criterio de validación: _____________________________________) Tj ET
+BT /F1 12 Tf 0.082 0.227 0.271 rg 1 0 0 1 40 350.28000000000003 Tm (Conexión con su proyecto: ¿qué información reunirán para la entrega 3?) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000462 00000 n 
+0000003552 00000 n 
+0000003688 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+5688
+%%EOF
