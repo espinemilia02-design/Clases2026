@@ -1,18 +1,43 @@
-%PDF-1.4
+%PDF-1.7
+%ÅÅÅÅ
+
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
 endobj
+
 2 0 obj
-<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R 32 0 R 34 0 R 36 0 R 38 0 R 40 0 R 42 0 R 50 0 R 52 0 R 54 0 R 56 0 R 58 0 R 74 0 R 92 0 R] /Count 26 >>
+<<
+/Type /Pages
+/Kids [ 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R 32 0 R 34 0 R 36 0 R 38 0 R 40 0 R 42 0 R 50 0 R 52 0 R 54 0 R 56 0 R 58 0 R 74 0 R 92 0 R ]
+/Count 26
+>>
 endobj
+
 3 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
 endobj
+
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
 endobj
+
 5 0 obj
-<< /Length 16364 >>
+<<
+/Length 16364
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -263,11 +288,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (Una herramienta dirigida permite plantear preguntas sobre funci\363n.) Tj ET
 endstream
 endobj
+
 6 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 5 0 R
+>>
 endobj
+
 7 0 obj
-<< /Length 3053 >>
+<<
+/Length 3053
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -305,11 +345,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (Una variante puede ser neutra, beneficiosa o perjudicial.) Tj ET
 endstream
 endobj
+
 8 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 7 0 R
+>>
 endobj
+
 9 0 obj
-<< /Length 16891 >>
+<<
+/Length 16891
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -564,11 +619,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (Un vector puede transportar componentes de edici\363n.) Tj ET
 endstream
 endobj
+
 10 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 9 0 R
+>>
 endobj
+
 11 0 obj
-<< /Length 4309 >>
+<<
+/Length 4309
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -640,11 +710,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (Ejemplos inventados; no corresponden a un gen real.) Tj ET
 endstream
 endobj
+
 12 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 11 0 R
+>>
 endobj
+
 13 0 obj
-<< /Length 2089 >>
+<<
+/Length 2089
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -677,11 +762,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (Define el cambio esperado y la evidencia que lo demostrar\355a.) Tj ET
 endstream
 endobj
+
 14 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 13 0 R
+>>
 endobj
+
 15 0 obj
-<< /Length 24945 >>
+<<
+/Length 24945
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -1052,11 +1152,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (La diferencia clave es c\363mo se reconoce el ADN.) Tj ET
 endstream
 endobj
+
 16 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 15 0 R
+>>
 endobj
+
 17 0 obj
-<< /Length 16535 >>
+<<
+/Length 16535
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -1330,11 +1445,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (El dominio de uni\363n reconoce; FokI aporta la actividad de corte.) Tj ET
 endstream
 endobj
+
 18 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 17 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 17 0 R
+>>
 endobj
+
 19 0 obj
-<< /Length 9184 >>
+<<
+/Length 9184
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -1477,11 +1607,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (El laboratorio adapt\363 un sistema natural de defensa.) Tj ET
 endstream
 endobj
+
 20 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 19 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 19 0 R
+>>
 endobj
+
 21 0 obj
-<< /Length 8663 >>
+<<
+/Length 8663
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -1622,11 +1767,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 16 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 66.28 Tm (Gu\355a: reconocimiento \267 Cas9: corte \267 PAM: requisito del ADN) Tj ET
 endstream
 endobj
+
 22 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 21 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 21 0 R
+>>
 endobj
+
 23 0 obj
-<< /Length 7218 >>
+<<
+/Length 7218
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -1734,11 +1894,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (El PAM est\341 en el ADN; no forma parte del segmento gu\355a.) Tj ET
 endstream
 endobj
+
 24 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 23 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 23 0 R
+>>
 endobj
+
 25 0 obj
-<< /Length 24180 >>
+<<
+/Length 24180
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -2103,11 +2278,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (Cortar no garantiza ni knockout ni correcci\363n.) Tj ET
 endstream
 endobj
+
 26 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 25 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 25 0 R
+>>
 endobj
+
 27 0 obj
-<< /Length 3681 >>
+<<
+/Length 3681
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -2146,11 +2336,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 16 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 66.28 Tm (Modelo sin proporciones medidas \267 una poblaci\363n no es un clon.) Tj ET
 endstream
 endobj
+
 28 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 27 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 27 0 R
+>>
 endobj
+
 29 0 obj
-<< /Length 1611 >>
+<<
+/Length 1611
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -2175,11 +2380,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (Se evita usar una rotura doble como paso intencional central.) Tj ET
 endstream
 endobj
+
 30 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 29 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 29 0 R
+>>
 endobj
+
 31 0 obj
-<< /Length 10124 >>
+<<
+/Length 10124
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -2326,11 +2546,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (El formato de entrega no es el cambio final del genoma.) Tj ET
 endstream
 endobj
+
 32 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 31 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 31 0 R
+>>
 endobj
+
 33 0 obj
-<< /Length 7353 >>
+<<
+/Length 7353
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -2438,11 +2673,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (Secuenciar y medir funci\363n aportan evidencias diferentes.) Tj ET
 endstream
 endobj
+
 34 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 33 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 33 0 R
+>>
 endobj
+
 35 0 obj
-<< /Length 11286 >>
+<<
+/Length 11286
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -2605,11 +2855,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (\277Qu\351 controles apoyar\355an una interpretaci\363n de funci\363n?) Tj ET
 endstream
 endobj
+
 36 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 35 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 35 0 R
+>>
 endobj
+
 37 0 obj
-<< /Length 10986 >>
+<<
+/Length 10986
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -2760,11 +3025,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 16 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 66.28 Tm (El sitio editado y el mecanismo importan tanto como la aplicaci\363n.) Tj ET
 endstream
 endobj
+
 38 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 37 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 37 0 R
+>>
 endobj
+
 39 0 obj
-<< /Length 23965 >>
+<<
+/Length 23965
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -3124,11 +3404,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (La predicci\363n computacional se contrasta con evidencia.) Tj ET
 endstream
 endobj
+
 40 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 39 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 39 0 R
+>>
 endobj
+
 41 0 obj
-<< /Length 1887 >>
+<<
+/Length 1887
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -3152,11 +3447,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 16 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 66.28 Tm (Elige una estrategia, una limitaci\363n y una forma de comprobarla.) Tj ET
 endstream
 endobj
+
 42 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 41 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 41 0 R
+>>
 endobj
+
 43 0 obj
-<< /Length 2244 >>
+<<
+/Length 2244
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -3189,29 +3499,105 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 16 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 66.28 Tm (Registra el ensamblaje, el modo y el significado de las puntuaciones.) Tj ET
 endstream
 endobj
+
 44 0 obj
-<< /Type /Annot /Subtype /Link /Rect [129.065 290 242.935 316] /Border [0 0 0] /A << /S /URI /URI (https://www.ncbi.nlm.nih.gov/gene/822415) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 129.065 290 242.935 316 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://www.ncbi.nlm.nih.gov/gene/822415)
+>>
+>>
 endobj
+
 45 0 obj
-<< /Type /Annot /Subtype /Link /Rect [120.099 137.4 251.901 153] /Border [0 0 0] /A << /S /URI /URI (https://www.ncbi.nlm.nih.gov/gene/822415) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 120.099 137.4 251.901 153 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://www.ncbi.nlm.nih.gov/gene/822415)
+>>
+>>
 endobj
+
 46 0 obj
-<< /Type /Annot /Subtype /Link /Rect [420.198 290 539.802 316] /Border [0 0 0] /A << /S /URI /URI (https://chopchop.cbu.uib.no/) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 420.198 290 539.802 316 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://chopchop.cbu.uib.no/)
+>>
+>>
 endobj
+
 47 0 obj
-<< /Type /Annot /Subtype /Link /Rect [414.099 137.4 545.901 153] /Border [0 0 0] /A << /S /URI /URI (https://chopchop.cbu.uib.no/) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 414.099 137.4 545.901 153 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://chopchop.cbu.uib.no/)
+>>
+>>
 endobj
+
 48 0 obj
-<< /Type /Annot /Subtype /Link /Rect [726.845 290 821.155 316] /Border [0 0 0] /A << /S /URI /URI (https://crispor.org/) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 726.845 290 821.155 316 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://crispor.org/)
+>>
+>>
 endobj
+
 49 0 obj
-<< /Type /Annot /Subtype /Link /Rect [708.099 137.4 839.901 153] /Border [0 0 0] /A << /S /URI /URI (https://crispor.org/) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 708.099 137.4 839.901 153 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://crispor.org/)
+>>
+>>
 endobj
+
 50 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 43 0 R /Annots [44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R] >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 43 0 R
+/Annots [ 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R ]
+>>
 endobj
+
 51 0 obj
-<< /Length 9484 >>
+<<
+/Length 9484
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -3358,11 +3744,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 16 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 66.28 Tm (\277C\363mo conectar\355as el dise\361o de una gu\355a con esta pregunta biol\363gica?) Tj ET
 endstream
 endobj
+
 52 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 51 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 51 0 R
+>>
 endobj
+
 53 0 obj
-<< /Length 2357 >>
+<<
+/Length 2357
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -3397,11 +3798,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 16 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 66.28 Tm (\277Cu\341l priorizar\355as para el objetivo propuesto y qu\351 falta comprobar?) Tj ET
 endstream
 endobj
+
 54 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 53 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 53 0 R
+>>
 endobj
+
 55 0 obj
-<< /Length 2650 >>
+<<
+/Length 2650
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -3433,11 +3849,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (Ficha editable, r\372brica sobre 10 y modalidad sin servidor.) Tj ET
 endstream
 endobj
+
 56 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 55 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 55 0 R
+>>
 endobj
+
 57 0 obj
-<< /Length 2015 >>
+<<
+/Length 2015
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -3464,11 +3895,26 @@ q 0.8627 0.9098 0.9373 rg  48 46 864 45 re f Q
 BT /F2 17 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 62 65.36 Tm (Reconocer -> modificar -> comprobar) Tj ET
 endstream
 endobj
+
 58 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 57 0 R >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 57 0 R
+>>
 endobj
+
 59 0 obj
-<< /Length 2517 >>
+<<
+/Length 2517
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -3492,53 +3938,209 @@ BT /F2 11.6 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 53 89.328 Tm ([7] Kosicki, M., To
 BT /F1 10.5 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 53 72.34 Tm (Repair of double-strand breaks induced by CRISPR\226Cas9 leads to large deletions and complex rearrangements. Nature Biotechnology, 36, 765\226771.) Tj ET
 endstream
 endobj
+
 60 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 378.92 195.811 394] /Border [0 0 0] /A << /S /URI /URI (https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 378.92 195.811 394 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell)
+>>
+>>
 endobj
+
 61 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 362.35 349.447 376] /Border [0 0 0] /A << /S /URI /URI (https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 362.35 349.447 376 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://wwnorton.co.uk/books/9780393884852-molecular-biology-of-the-cell)
+>>
+>>
 endobj
+
 62 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 329.92 227.159 345] /Border [0 0 0] /A << /S /URI /URI (https://medlineplus.gov/spanish/genetica/entender/investigaciongenomica/ediciondelgenoma/) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 329.92 227.159 345 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://medlineplus.gov/spanish/genetica/entender/investigaciongenomica/ediciondelgenoma/)
+>>
+>>
 endobj
+
 63 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 313.35 551.372 327] /Border [0 0 0] /A << /S /URI /URI (https://medlineplus.gov/spanish/genetica/entender/investigaciongenomica/ediciondelgenoma/) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 313.35 551.372 327 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://medlineplus.gov/spanish/genetica/entender/investigaciongenomica/ediciondelgenoma/)
+>>
+>>
 endobj
+
 64 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 280.92 235.851 296] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1007/s13205-018-1563-x) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 280.92 235.851 296 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1007/s13205-018-1563-x)
+>>
+>>
 endobj
+
 65 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 264.35 481.389 278] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1007/s13205-018-1563-x) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 264.35 481.389 278 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1007/s13205-018-1563-x)
+>>
+>>
 endobj
+
 66 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 231.92 188.464 247] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1126/science.1225829) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 231.92 188.464 247 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1126/science.1225829)
+>>
+>>
 endobj
+
 67 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 215.35 564.802 229] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1126/science.1225829) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 215.35 564.802 229 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1126/science.1225829)
+>>
+>>
 endobj
+
 68 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 182.92 335.933 198] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1016/j.tibtech.2013.04.004) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 182.92 335.933 198 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1016/j.tibtech.2013.04.004)
+>>
+>>
 endobj
+
 69 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 166.35 575.322 180] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1016/j.tibtech.2013.04.004) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 166.35 575.322 180 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1016/j.tibtech.2013.04.004)
+>>
+>>
 endobj
+
 70 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 133.92 335.285 149] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1038/s41587-020-0561-9) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 133.92 335.285 149 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1038/s41587-020-0561-9)
+>>
+>>
 endobj
+
 71 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 117.35 654.692 131] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1038/s41587-020-0561-9) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 117.35 654.692 131 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1038/s41587-020-0561-9)
+>>
+>>
 endobj
+
 72 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 84.92 313.23 100] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1038/nbt.4192) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 84.92 313.23 100 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1038/nbt.4192)
+>>
+>>
 endobj
+
 73 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 68.35 747.491 82] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1038/nbt.4192) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 68.35 747.491 82 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1038/nbt.4192)
+>>
+>>
 endobj
+
 74 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 59 0 R /Annots [60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R] >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 59 0 R
+/Annots [ 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R ]
+>>
 endobj
+
 75 0 obj
-<< /Length 2734 >>
+<<
+/Length 2734
+>>
 stream
 q 0.9529 0.9686 0.9804 rg  0 0 960 540 re f Q
 q 0.0000 0.5412 0.5412 rg  0 0 11 540 re f Q
@@ -3564,154 +4166,343 @@ BT /F2 11.6 Tf 0.0000 0.5412 0.5412 rg 1 0 0 1 53 75.328 Tm ([15] U. S. Food and
 BT /F1 10.5 Tf 0.0980 0.2039 0.2824 rg 1 0 0 1 53 58.34 Tm (Summary Basis for Regulatory Action \226 CASGEVY. 8 de diciembre de 2023.) Tj ET
 endstream
 endobj
+
 76 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 378.92 223.185 394] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1038/s41586-019-1711-4) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 378.92 223.185 394 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1038/s41586-019-1711-4)
+>>
+>>
 endobj
+
 77 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 362.35 535.066 376] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1038/s41586-019-1711-4) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 362.35 535.066 376 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1038/s41586-019-1711-4)
+>>
+>>
 endobj
+
 78 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 334.92 215.825 350] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1038/s43586-026-00478-3) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 334.92 215.825 350 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1038/s43586-026-00478-3)
+>>
+>>
 endobj
+
 79 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 318.35 471.981 332] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1038/s43586-026-00478-3) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 318.35 471.981 332 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1038/s43586-026-00478-3)
+>>
+>>
 endobj
+
 80 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 290.92 213.16 306] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1056/NEJMoa2309676) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 290.92 213.16 306 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1056/NEJMoa2309676)
+>>
+>>
 endobj
+
 81 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 274.35 575.322 288] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1056/NEJMoa2309676) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 274.35 575.322 288 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1056/NEJMoa2309676)
+>>
+>>
 endobj
+
 82 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 246.92 218.503 262] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1056/NEJMoa2504747) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 246.92 218.503 262 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1056/NEJMoa2504747)
+>>
+>>
 endobj
+
 83 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 230.35 624.945 244] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1056/NEJMoa2504747) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 230.35 624.945 244 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1056/NEJMoa2504747)
+>>
+>>
 endobj
+
 84 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 202.92 198.501 218] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1093/nar/gkz365) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 202.92 198.501 218 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1093/nar/gkz365)
+>>
+>>
 endobj
+
 85 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 186.35 616.735 200] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1093/nar/gkz365) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 186.35 616.735 200 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1093/nar/gkz365)
+>>
+>>
 endobj
+
 86 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 158.92 291.211 174] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1093/nar/gky354) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 158.92 291.211 174 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1093/nar/gky354)
+>>
+>>
 endobj
+
 87 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 142.35 698.992 156] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1093/nar/gky354) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 142.35 698.992 156 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://doi.org/10.1093/nar/gky354)
+>>
+>>
 endobj
+
 88 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 114.92 300.576 130] /Border [0 0 0] /A << /S /URI /URI (https://www.ncbi.nlm.nih.gov/gene/822415) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 114.92 300.576 130 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://www.ncbi.nlm.nih.gov/gene/822415)
+>>
+>>
 endobj
+
 89 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 98.35 386.26 112] /Border [0 0 0] /A << /S /URI /URI (https://www.ncbi.nlm.nih.gov/gene/822415) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 98.35 386.26 112 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://www.ncbi.nlm.nih.gov/gene/822415)
+>>
+>>
 endobj
+
 90 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 70.92 307.239 86] /Border [0 0 0] /A << /S /URI /URI (https://www.fda.gov/media/175179/download) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 70.92 307.239 86 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://www.fda.gov/media/175179/download)
+>>
+>>
 endobj
+
 91 0 obj
-<< /Type /Annot /Subtype /Link /Rect [53 54.35 408.394 68] /Border [0 0 0] /A << /S /URI /URI (https://www.fda.gov/media/175179/download) >> >>
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 54.35 408.394 68 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/URI (https://www.fda.gov/media/175179/download)
+>>
+>>
 endobj
+
 92 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 75 0 R /Annots [76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R] >>
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [ 0 0 960 540 ]
+/Resources <<
+/Font <<
+/F1 3 0 R
+/F2 4 0 R
+>>
+>>
+/Contents 75 0 R
+/Annots [ 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R ]
+>>
 endobj
+
+93 0 obj
+<<
+/Title <FEFF005000720069006E0063006900700069006F007300200064006500200065006400690063006900F3006E0020006D006F006C006500630075006C006100720020201400200063006C0061007300650020006400650020003400300020006D0069006E00750074006F0073>
+/Author <FEFF004D006100740065007200690061006C00200064006F00630065006E00740065002000640065002000420069006F006C006F006700ED00610020004D006F006C006500630075006C00610072>
+/Subject <FEFF0043006F006E0063006500700074006F0073002C0020006D006500630061006E00690073006D006F007300200079002000740072006100620061006A006F002000640065002000610070006C0069006300610063006900F3006E>
+>>
+endobj
+
 xref
-0 93
+0 94
 0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000290 00000 n 
-0000000387 00000 n 
-0000000489 00000 n 
-0000016906 00000 n 
-0000017042 00000 n 
-0000020147 00000 n 
-0000020283 00000 n 
-0000037227 00000 n 
-0000037364 00000 n 
-0000041726 00000 n 
-0000041864 00000 n 
-0000044006 00000 n 
-0000044144 00000 n 
-0000069143 00000 n 
-0000069281 00000 n 
-0000085870 00000 n 
-0000086008 00000 n 
-0000095245 00000 n 
-0000095383 00000 n 
-0000104099 00000 n 
-0000104237 00000 n 
-0000111508 00000 n 
-0000111646 00000 n 
-0000135880 00000 n 
-0000136018 00000 n 
-0000139752 00000 n 
-0000139890 00000 n 
-0000141554 00000 n 
-0000141692 00000 n 
-0000151870 00000 n 
-0000152008 00000 n 
-0000159414 00000 n 
-0000159552 00000 n 
-0000170892 00000 n 
-0000171030 00000 n 
-0000182070 00000 n 
-0000182208 00000 n 
-0000206227 00000 n 
-0000206365 00000 n 
-0000208305 00000 n 
-0000208443 00000 n 
-0000210740 00000 n 
-0000210903 00000 n 
-0000211068 00000 n 
-0000211219 00000 n 
-0000211372 00000 n 
-0000211515 00000 n 
-0000211660 00000 n 
-0000211850 00000 n 
-0000221387 00000 n 
-0000221525 00000 n 
-0000223935 00000 n 
-0000224073 00000 n 
-0000226776 00000 n 
-0000226914 00000 n 
-0000228982 00000 n 
+0000000016 00000 n 
+0000000066 00000 n 
+0000000301 00000 n 
+0000000399 00000 n 
+0000000502 00000 n 
+0000016920 00000 n 
+0000017059 00000 n 
+0000020165 00000 n 
+0000020304 00000 n 
+0000037249 00000 n 
+0000037389 00000 n 
+0000041752 00000 n 
+0000041893 00000 n 
+0000044036 00000 n 
+0000044177 00000 n 
+0000069177 00000 n 
+0000069318 00000 n 
+0000085908 00000 n 
+0000086049 00000 n 
+0000095287 00000 n 
+0000095428 00000 n 
+0000104145 00000 n 
+0000104286 00000 n 
+0000111558 00000 n 
+0000111699 00000 n 
+0000135934 00000 n 
+0000136075 00000 n 
+0000139810 00000 n 
+0000139951 00000 n 
+0000141616 00000 n 
+0000141757 00000 n 
+0000151936 00000 n 
+0000152077 00000 n 
+0000159484 00000 n 
+0000159625 00000 n 
+0000170966 00000 n 
+0000171107 00000 n 
+0000182148 00000 n 
+0000182289 00000 n 
+0000206309 00000 n 
+0000206450 00000 n 
+0000208391 00000 n 
+0000208532 00000 n 
+0000210830 00000 n 
+0000210998 00000 n 
+0000211168 00000 n 
+0000211324 00000 n 
+0000211482 00000 n 
+0000211630 00000 n 
+0000211780 00000 n 
+0000211975 00000 n 
+0000221513 00000 n 
+0000221654 00000 n 
+0000224065 00000 n 
+0000224206 00000 n 
+0000226910 00000 n 
+0000227051 00000 n 
 0000229120 00000 n 
-0000231690 00000 n 
-0000231883 00000 n 
-0000232076 00000 n 
-0000232286 00000 n 
-0000232496 00000 n 
+0000229261 00000 n 
+0000231832 00000 n 
+0000232030 00000 n 
+0000232228 00000 n 
+0000232443 00000 n 
 0000232658 00000 n 
-0000232820 00000 n 
-0000232980 00000 n 
-0000233140 00000 n 
-0000233306 00000 n 
-0000233472 00000 n 
-0000233634 00000 n 
-0000233796 00000 n 
-0000233947 00000 n 
-0000234098 00000 n 
-0000234344 00000 n 
-0000237131 00000 n 
-0000237293 00000 n 
-0000237455 00000 n 
-0000237618 00000 n 
-0000237781 00000 n 
-0000237938 00000 n 
-0000238096 00000 n 
-0000238254 00000 n 
-0000238412 00000 n 
-0000238567 00000 n 
-0000238722 00000 n 
-0000238877 00000 n 
-0000239032 00000 n 
-0000239193 00000 n 
-0000239352 00000 n 
-0000239512 00000 n 
-0000239672 00000 n 
+0000232825 00000 n 
+0000232992 00000 n 
+0000233157 00000 n 
+0000233322 00000 n 
+0000233493 00000 n 
+0000233664 00000 n 
+0000233831 00000 n 
+0000233998 00000 n 
+0000234154 00000 n 
+0000234310 00000 n 
+0000234561 00000 n 
+0000237349 00000 n 
+0000237516 00000 n 
+0000237683 00000 n 
+0000237851 00000 n 
+0000238019 00000 n 
+0000238181 00000 n 
+0000238344 00000 n 
+0000238507 00000 n 
+0000238670 00000 n 
+0000238830 00000 n 
+0000238990 00000 n 
+0000239150 00000 n 
+0000239310 00000 n 
+0000239476 00000 n 
+0000239640 00000 n 
+0000239805 00000 n 
+0000239970 00000 n 
+0000240235 00000 n 
+
 trailer
-<< /Size 93 /Root 1 0 R >>
+<<
+/Size 94
+/Root 1 0 R
+/Info 93 0 R
+>>
+
 startxref
-239932
+240847
 %%EOF

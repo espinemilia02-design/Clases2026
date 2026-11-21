@@ -4,12 +4,15 @@ Clase introductoria para quinto semestre de Biología Molecular: conceptos, ZFN,
 
 ## Descargar la clase
 
-- [PowerPoint editable de la clase](Principios_edicion_molecular_40min.pptx)
-- [PDF de la clase](Principios_edicion_molecular_40min.pdf)
+- [PowerPoint para descargar — versión corregida](Edicion_molecular_40min_CORREGIDA.pptx)
+- [PDF de la clase](Edicion_molecular_40min_CORREGIDA.pdf)
+- [Descargar PowerPoint y PDF juntos en ZIP](Edicion_molecular_40min_DESCARGA.zip)
 - [Clase HTML para abrir sin conexión en un navegador](Clase_en_navegador.html)
 - [PowerPoint con cinco anexos de consulta](Principios_edicion_molecular_40min_con_anexos.pptx)
 - [PDF completo con anexos](Principios_edicion_molecular_40min_con_anexos.pdf)
 - [Guía docente con cronograma, notas, respuestas y referencias](Guia_docente_Edicion_molecular_40min.pdf)
+
+Si descargaste una versión anterior, utiliza el archivo terminado en **CORREGIDA**.
 
 La clase tiene 24 diapositivas de contenido y dos finales de bibliografía. La versión completa añade cinco anexos antes de las referencias, 31 diapositivas en total. Los anexos quedan fuera del cronograma de 40 minutos. Los tiempos aparecen solo en la guía docente.
 
